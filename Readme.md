@@ -17,6 +17,5 @@ This repository contains the implementation, evaluation and supporting data for 
 ## Author
 
 - Vikrant Nitin Deshmukh
-- Student No: 2745171
 - MSc Data Science, University of Bristol  
-- Supervisor: Dr Karina Nurlybayeva
+
