@@ -1,0 +1,201 @@
+query_appid,query_game,rich_text_rank,appid,recommended_game,rich_text_score,release_date,release_year,genres,recommendations,pct_pos_total,num_reviews_total,peak_ccu
+1245620,ELDEN RING,1,2012170,Ashzel & The Power Dagger,0.180541,2022-06-10,2022,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+1245620,ELDEN RING,2,3331350,Void Lands,0.117666,2024-11-22,2024,"['Action', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,3,3208830,Pixel Dungeon RPG,0.115453,2024-09-27,2024,"['Massively Multiplayer', 'RPG', 'Free To Play']",0,33.0,15.0,0
+1245620,ELDEN RING,4,3358020,Olympus of the Heavens,0.113465,2025-02-15,2025,"['Action', 'Adventure', 'RPG', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,5,2648980,Warmage,0.109426,2024-10-26,2024,"['Indie', 'RPG', 'Strategy']",0,,0.0,0
+1245620,ELDEN RING,6,3097450,Warmage: Prologue,0.108326,2024-08-05,2024,"['Strategy', 'Free To Play']",0,,0.0,0
+1245620,ELDEN RING,7,3245250,Of Ink and Silver,0.107844,2025-01-28,2025,"['Adventure', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,8,3120270,The Castle Of Xanxillia,0.107274,2024-08-19,2024,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+1245620,ELDEN RING,9,1546090,RAIDBORN,0.107199,2023-03-29,2023,"['Action', 'Adventure', 'RPG', 'Early Access']",249,75.0,253.0,5
+1245620,ELDEN RING,10,763890,Wildermyth,0.106566,2021-06-15,2021,"['Indie', 'RPG', 'Strategy']",15549,95.0,15555.0,207
+1245620,ELDEN RING,11,1203620,Enshrouded,0.106048,2024-01-24,2024,"['Action', 'Adventure', 'RPG', 'Early Access']",65053,86.0,65175.0,15518
+1245620,ELDEN RING,12,215830,Closers,0.105789,2018-02-06,2018,"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",225,73.0,4515.0,42
+1245620,ELDEN RING,13,428980,Ethereal Legends,0.10418,2017-02-21,2017,"['Action', 'Adventure', 'Indie', 'RPG']",0,30.0,10.0,0
+1245620,ELDEN RING,14,1262500,Mirastell,0.103479,2021-08-22,2021,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+1245620,ELDEN RING,15,937380,Ashen Empires,0.103279,2022-09-02,2022,"['Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",0,75.0,391.0,0
+1245620,ELDEN RING,16,374040,Portal Knights,0.102367,2017-05-18,2017,"['Action', 'Adventure', 'RPG']",16273,83.0,16274.0,110
+1245620,ELDEN RING,17,3308920,Depths of Endor: Dungeon Crawler,0.102132,2024-11-19,2024,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+1245620,ELDEN RING,18,2344520,Diablo® IV,0.101702,2023-10-17,2023,"['Action', 'RPG']",33068,71.0,33185.0,8172
+1245620,ELDEN RING,19,212500,The Lord of the Rings Online™,0.101078,2012-06-06,2012,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",170,81.0,20574.0,2085
+1245620,ELDEN RING,20,3446020,The Lost Island,0.099809,2025-02-10,2025,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1245620,ELDEN RING,21,568670,Trapped Souls,0.098861,2017-01-04,2017,"['Action', 'RPG', 'Early Access']",0,87.0,16.0,0
+1245620,ELDEN RING,22,3402270,The Dragon Odyssey,0.098691,2025-02-28,2025,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",0,28.0,14.0,0
+1245620,ELDEN RING,23,511800,ONRAID,0.098617,2017-04-18,2017,"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy']",0,75.0,1782.0,0
+1245620,ELDEN RING,24,3107230,Pantheon: Rise of the Fallen,0.098328,2024-12-13,2024,"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",3671,79.0,3737.0,4194
+1245620,ELDEN RING,25,237310,Elsword,0.098287,2014-07-02,2014,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,73.0,9527.0,235
+1245620,ELDEN RING,26,345180,Victor Vran ARPG,0.097932,2015-07-24,2015,"['Action', 'Adventure', 'Indie', 'RPG']",3645,85.0,3645.0,10
+1245620,ELDEN RING,27,506870,Unexplored,0.097241,2017-02-22,2017,"['Action', 'Adventure', 'Indie', 'RPG']",552,89.0,554.0,6
+1245620,ELDEN RING,28,1743570,RFVR,0.09717,2022-07-17,2022,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Early Access']",0,79.0,44.0,0
+1245620,ELDEN RING,29,2880010,Din's Champion,0.097158,2024-09-25,2024,"['Action', 'Indie', 'RPG', 'Early Access']",0,92.0,71.0,3
+1245620,ELDEN RING,30,523760,Loot or Die,0.097081,2016-09-13,2016,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",0,78.0,37.0,0
+1245620,ELDEN RING,31,921970,Liberty Prime,0.097007,2019-12-11,2019,"['Action', 'Adventure', 'Indie', 'RPG']",0,31.0,88.0,0
+1245620,ELDEN RING,32,761890,Albion Online,0.096891,2018-05-16,2018,"['Massively Multiplayer', 'RPG', 'Free To Play']",1867,79.0,80910.0,13046
+1245620,ELDEN RING,33,2568990,Champion of Andia,0.096439,2025-02-07,2025,"['Action', 'RPG', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,34,746880,Spoxel,0.096358,2019-03-28,2019,"['Action', 'Adventure', 'Indie', 'RPG']",0,57.0,21.0,0
+1245620,ELDEN RING,35,2630100,Definya 2D MMORPG,0.09633,2023-11-05,2023,"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",0,68.0,60.0,0
+1245620,ELDEN RING,36,2367710,Legend of the Wargod,0.09631,2024-09-17,2024,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,37,2819520,Viking Rise: Valhalla,0.096058,2024-05-21,2024,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",0,74.0,465.0,0
+1245620,ELDEN RING,38,261550,Mount & Blade II: Bannerlord,0.0959,2022-10-25,2022,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",202105,87.0,202175.0,18915
+1245620,ELDEN RING,39,2496000,FRACTALS OF DESTINY,0.095847,2024-04-06,2024,"['Action', 'Adventure', 'Indie', 'RPG']",0,55.0,34.0,0
+1245620,ELDEN RING,40,957710,The Waylanders,0.095722,2022-02-02,2022,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",347,48.0,347.0,0
+1245620,ELDEN RING,41,489520,Minion Masters,0.095539,2019-05-24,2019,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy', 'Free To Play']",1533,89.0,64793.0,425
+1245620,ELDEN RING,42,952000,Be Vigilant!,0.095459,2022-01-23,2022,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+1245620,ELDEN RING,43,3475860,Tale of Dark Lands,0.095427,2025-02-27,2025,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+1245620,ELDEN RING,44,523750,The 4th Coming,0.095425,2019-11-18,2019,"['Adventure', 'Massively Multiplayer', 'RPG']",0,71.0,98.0,7
+1245620,ELDEN RING,45,1656930,Coridden,0.095359,2025-01-29,2025,"['Action', 'Adventure', 'Indie', 'RPG']",246,91.0,248.0,16
+1245620,ELDEN RING,46,1342070,The Triumphant Return of Diabolos,0.095329,2022-06-10,2022,"['Adventure', 'Indie', 'RPG']",0,69.0,36.0,0
+1245620,ELDEN RING,47,291190,Heroes of Steel RPG,0.095262,2014-04-23,2014,"['Indie', 'RPG', 'Strategy']",212,77.0,212.0,1
+1245620,ELDEN RING,48,3301040,TeeTINY Online: Smart Tower Life,0.095233,2024-12-12,2024,"['Casual', 'Indie', 'Massively Multiplayer', 'RPG']",0,71.0,38.0,54
+1245620,ELDEN RING,49,255070,Abyss Odyssey,0.095151,2014-07-15,2014,"['Action', 'Adventure', 'Indie']",1253,67.0,1253.0,1
+1245620,ELDEN RING,50,65800,Dungeon Defenders,0.094954,2011-10-18,2011,"['Action', 'Indie', 'RPG', 'Strategy']",11264,93.0,11282.0,396
+1174180,Red Dead Redemption 2,1,2668510,Red Dead Redemption,0.284116,2024-10-29,2024,['Action'],8276,92.0,8295.0,763
+1174180,Red Dead Redemption 2,2,1404210,Red Dead Online,0.181455,2020-12-01,2020,"['Action', 'Adventure']",56631,83.0,56651.0,1228
+1174180,Red Dead Redemption 2,3,3260490,Cowgirl Trainer,0.136007,2024-10-19,2024,"['Indie', 'RPG', 'Free To Play']",0,91.0,12.0,0
+1174180,Red Dead Redemption 2,4,3245330,The Final Exam,0.122369,2024-11-01,2024,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy', 'Free To Play']",0,46.0,75.0,0
+1174180,Red Dead Redemption 2,5,1413870,Shadow Man Remastered,0.119234,2021-04-15,2021,"['Action', 'Adventure']",1150,95.0,1151.0,12
+1174180,Red Dead Redemption 2,6,2495340,20 Doors,0.118299,2023-07-21,2023,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1174180,Red Dead Redemption 2,7,1263120,Hecaton,0.117637,2020-04-05,2020,"['Action', 'Indie', 'RPG']",0,,0.0,0
+1174180,Red Dead Redemption 2,8,1996770,Turok 3: Shadow of Oblivion Remastered,0.117493,2023-11-30,2023,"['Action', 'Adventure']",430,88.0,431.0,4
+1174180,Red Dead Redemption 2,9,340560,Wanted Corp.,0.116386,2016-12-08,2016,['Action'],0,45.0,11.0,0
+1174180,Red Dead Redemption 2,10,1970700,CowboysShowdown,0.115619,2022-05-25,2022,"['Action', 'Casual', 'Indie']",0,90.0,11.0,1
+1174180,Red Dead Redemption 2,11,1593500,God of War,0.115137,2022-01-14,2022,"['Action', 'Adventure', 'RPG']",107557,96.0,107989.0,2246
+1174180,Red Dead Redemption 2,12,1888930,The Last of Us™ Part I,0.11278,2023-03-28,2023,"['Action', 'Adventure']",41021,77.0,41084.0,1840
+1174180,Red Dead Redemption 2,13,2056210,LONESTAR,0.110494,2024-01-18,2024,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",1258,91.0,1260.0,47
+1174180,Red Dead Redemption 2,14,1373550,BloodRayne 2: Terminal Cut,0.109876,2020-11-20,2020,"['Action', 'Adventure', 'RPG']",786,79.0,786.0,5
+1174180,Red Dead Redemption 2,15,2211750,Bounty,0.108243,2022-12-02,2022,"['Action', 'Indie']",0,66.0,18.0,0
+1174180,Red Dead Redemption 2,16,1373510,BloodRayne: Terminal Cut,0.107941,2020-11-20,2020,['Action'],1158,91.0,1158.0,5
+1174180,Red Dead Redemption 2,17,668980,Forsaken Remastered,0.10649,2018-07-31,2018,"['Action', 'Adventure']",206,88.0,206.0,0
+1174180,Red Dead Redemption 2,18,1547000,Grand Theft Auto: San Andreas – The Definitive Edition,0.106258,2023-01-19,2023,"['Action', 'Adventure']",7526,76.0,7593.0,525
+1174180,Red Dead Redemption 2,19,2651280,Marvel's Spider-Man 2,0.105678,2025-01-30,2025,"['Action', 'Adventure']",10949,72.0,11158.0,3349
+1174180,Red Dead Redemption 2,20,399120,Prospekt,0.104255,2016-02-18,2016,['Action'],1485,62.0,1486.0,2
+1174180,Red Dead Redemption 2,21,1659420,UNCHARTED™: Legacy of Thieves Collection,0.102936,2022-10-19,2022,['Adventure'],17864,89.0,18008.0,756
+1174180,Red Dead Redemption 2,22,821100,The Protocons,0.10267,2018-04-10,2018,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1174180,Red Dead Redemption 2,23,918780,Sector Sweep,0.102663,2022-11-03,2022,"['Action', 'Indie', 'Early Access']",0,83.0,12.0,0
+1174180,Red Dead Redemption 2,24,3126380,Starlair,0.100923,2025-01-16,2025,"['Action', 'Adventure']",0,66.0,15.0,1
+1174180,Red Dead Redemption 2,25,2322010,God of War Ragnarök,0.100175,2024-09-19,2024,"['Action', 'Adventure', 'RPG']",17971,86.0,17998.0,2610
+1174180,Red Dead Redemption 2,26,545050,Badiya: Desert Survival,0.09833,2016-11-11,2016,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",280,52.0,280.0,0
+1174180,Red Dead Redemption 2,27,821330,Mob War Nazi Golds,0.097469,2018-04-04,2018,"['Action', 'Indie']",0,50.0,20.0,0
+1174180,Red Dead Redemption 2,28,300380,Road Redemption,0.095901,2017-10-04,2017,"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",9945,82.0,9920.0,55
+1174180,Red Dead Redemption 2,29,3240220,Grand Theft Auto V Enhanced,0.095063,2025-03-04,2025,"['Action', 'Adventure', 'Racing']",15444,54.0,19644.0,127949
+1174180,Red Dead Redemption 2,30,331600,One Piece Pirate Warriors 3,0.094764,2015-08-27,2015,['Action'],7983,80.0,7986.0,36
+1174180,Red Dead Redemption 2,31,2457220,Avowed,0.094747,2025-02-18,2025,['RPG'],7431,77.0,7483.0,2844
+1174180,Red Dead Redemption 2,32,1529290,Prison Wars,0.094466,2022-03-30,2022,"['Casual', 'Free To Play', 'Massively Multiplayer', 'RPG']",0,78.0,28.0,0
+1174180,Red Dead Redemption 2,33,1850570,DEATH STRANDING DIRECTOR'S CUT,0.094324,2022-03-30,2022,"['Action', 'Adventure']",25352,92.0,25639.0,1219
+1174180,Red Dead Redemption 2,34,262450,Dead Man's Draw,0.092868,2014-02-06,2014,"['Casual', 'Indie', 'Strategy']",433,83.0,433.0,0
+1174180,Red Dead Redemption 2,35,856760,Gachi Gang,0.092798,2018-05-27,2018,"['Nudity', 'Adventure', 'Casual', 'Indie']",0,54.0,22.0,0
+1174180,Red Dead Redemption 2,36,623090,BAJA: Edge of Control HD,0.091942,2017-09-14,2017,"['Racing', 'Sports']",325,81.0,325.0,3
+1174180,Red Dead Redemption 2,37,598550,HUNTDOWN,0.09181,2021-05-12,2021,"['Action', 'Indie']",3313,94.0,3319.0,17
+1174180,Red Dead Redemption 2,38,1908730,Playtime with Hoogie,0.091802,2022-11-11,2022,"['Action', 'Casual', 'Indie', 'Strategy']",0,63.0,19.0,0
+1174180,Red Dead Redemption 2,39,2399830,ARK: Survival Ascended,0.091347,2023-10-25,2023,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",64893,59.0,65032.0,28394
+1174180,Red Dead Redemption 2,40,1516450,Red Mist: Rivers of Blood,0.090343,2021-01-23,2021,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1174180,Red Dead Redemption 2,41,1583230,High On Life,0.089895,2022-12-13,2022,"['Action', 'Adventure']",15395,89.0,15506.0,245
+1174180,Red Dead Redemption 2,42,444220,Asteroid Bounty Hunter,0.089887,2016-02-24,2016,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",227,62.0,228.0,0
+1174180,Red Dead Redemption 2,43,1055010,Energy Engine PC Live Wallpaper,0.089747,2019-05-10,2019,"['Design & Illustration', 'Utilities']",325,,0.0,48
+1174180,Red Dead Redemption 2,44,1259420,Days Gone,0.089725,2021-05-17,2021,"['Action', 'Adventure']",70158,92.0,70248.0,2803
+1174180,Red Dead Redemption 2,45,287900,Pro Pinball Ultra,0.089156,2016-07-21,2016,['Simulation'],260,81.0,261.0,6
+1174180,Red Dead Redemption 2,46,2988130,Croquettes Gang,0.088677,2024-06-11,2024,"['Casual', 'Indie', 'Free To Play']",0,86.0,23.0,0
+1174180,Red Dead Redemption 2,47,904530,Erotic Jigsaw Challenge Vol 2,0.088524,2018-08-07,2018,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,,0.0,0
+1174180,Red Dead Redemption 2,48,2752490,Battle for Desert City,0.088147,2024-01-18,2024,"['Indie', 'RPG', 'Strategy']",0,,0.0,0
+1174180,Red Dead Redemption 2,49,2133890,Mixture,0.088002,2024-04-12,2024,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1174180,Red Dead Redemption 2,50,312300,Heroes Rise: HeroFall,0.087018,2014-07-11,2014,"['Indie', 'RPG']",131,89.0,131.0,0
+578080,PUBG: BATTLEGROUNDS,1,843730,Infected Battlegrounds,0.257611,2018-08-02,2018,"['Action', 'Indie', 'Early Access']",0,50.0,34.0,0
+578080,PUBG: BATTLEGROUNDS,2,2630220,HEROS FIGHT Battle royal,0.246799,2023-10-27,2023,"['Action', 'Strategy']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,3,873220,SurvivalZ Battlegrounds,0.242337,2019-04-02,2019,"['Action', 'Indie', 'Simulation', 'Strategy']",273,64.0,273.0,0
+578080,PUBG: BATTLEGROUNDS,4,1148300,War Battle Royale Battlegrounds,0.240717,2019-09-11,2019,"['Action', 'Simulation', 'Strategy']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,5,1176170,GIRLS BATTLEGROUNDS | 性感大逃杀,0.235731,2019-11-18,2019,"['Action', 'Adventure']",0,57.0,59.0,0
+578080,PUBG: BATTLEGROUNDS,6,1172470,Apex Legends™,0.21583,2020-11-04,2020,"['Action', 'Adventure', 'Free To Play']",1548,67.0,983230.0,151844
+578080,PUBG: BATTLEGROUNDS,7,1114020,ZomB: Battlegrounds,0.214394,2019-07-26,2019,"['Action', 'Indie']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,8,658470,Mini Battlegrounds,0.209734,2018-08-20,2018,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Strategy']",207,64.0,586.0,0
+578080,PUBG: BATTLEGROUNDS,9,805940,RUSSIA BATTLEGROUNDS,0.208386,2018-07-13,2018,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3722,77.0,3723.0,3
+578080,PUBG: BATTLEGROUNDS,10,653080,Inflatality,0.200093,2017-10-26,2017,"['Action', 'Casual', 'Indie']",0,66.0,15.0,0
+578080,PUBG: BATTLEGROUNDS,11,968460,Mine Royale - Battle Royale,0.188331,2018-11-15,2018,"['Action', 'Adventure', 'Strategy']",0,66.0,15.0,0
+578080,PUBG: BATTLEGROUNDS,12,980850,Pixel Battle Royale,0.185234,2019-01-31,2019,"['Action', 'Free To Play', 'Indie']",0,61.0,637.0,0
+578080,PUBG: BATTLEGROUNDS,13,3261890,Toy Battlegrounds: Shoot 'Em Up Survival,0.175765,2025-03-03,2025,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,14,2195250,EA SPORTS FC™ 24,0.169501,2023-09-28,2023,"['Simulation', 'Sports']",91709,57.0,91719.0,7395
+578080,PUBG: BATTLEGROUNDS,15,3131780,Legends' Battlegrounds,0.167749,2025-01-23,2025,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,16,2140330,Madden NFL 24,0.166563,2023-08-17,2023,"['Simulation', 'Sports', 'Strategy']",7285,47.0,7287.0,336
+578080,PUBG: BATTLEGROUNDS,17,2560590,EGG DROP,0.165603,2023-09-05,2023,"['Action', 'Casual']",0,90.0,30.0,0
+578080,PUBG: BATTLEGROUNDS,18,840130,Battle Royale: Survivors 究极求生:大逃杀,0.162504,2018-08-29,2018,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",0,43.0,16.0,0
+578080,PUBG: BATTLEGROUNDS,19,2598290,P.R.O.T.O.C.O.O.L.,0.15953,2023-09-29,2023,"['Action', 'Casual', 'Indie', 'Early Access']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,20,1428730,BRoS - Battle Royale of Survival,0.157065,2023-03-10,2023,"['Action', 'Early Access']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,21,2776110,Bedroom Battlegrounds,0.15637,2024-11-18,2024,"['Action', 'Strategy']",0,90.0,10.0,0
+578080,PUBG: BATTLEGROUNDS,22,1142100,WWE 2K BATTLEGROUNDS,0.154709,2020-09-17,2020,"['Action', 'Sports']",365,67.0,365.0,7
+578080,PUBG: BATTLEGROUNDS,23,823940,Virtual Battlegrounds,0.154185,2020-04-15,2020,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early Access']",404,66.0,404.0,0
+578080,PUBG: BATTLEGROUNDS,24,931250,Pixel Royale,0.152508,2018-11-06,2018,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation']",0,35.0,14.0,0
+578080,PUBG: BATTLEGROUNDS,25,2446340,Garestia,0.151465,2023-06-19,2023,['Free To Play'],0,44.0,29.0,0
+578080,PUBG: BATTLEGROUNDS,26,913180,Battle royale simulator,0.150358,2018-08-24,2018,"['Action', 'Simulation', 'Strategy']",0,37.0,24.0,0
+578080,PUBG: BATTLEGROUNDS,27,1146730,Void of Heroes,0.149673,2020-11-03,2020,"['Action', 'Free To Play']",0,70.0,17.0,0
+578080,PUBG: BATTLEGROUNDS,28,2018740,MetaDOS,0.149538,2024-03-06,2024,"['Action', 'Massively Multiplayer', 'Free To Play', 'Early Access']",0,25.0,47.0,0
+578080,PUBG: BATTLEGROUNDS,29,923790,Battle Royale Survival,0.148934,2018-08-31,2018,"['Action', 'Adventure', 'Free To Play', 'Early Access']",0,57.0,40.0,0
+578080,PUBG: BATTLEGROUNDS,30,1595400,WSB GME,0.148526,2022-02-22,2022,"['Action', 'Massively Multiplayer']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,31,822800,Soulfire,0.14603,2020-08-03,2020,"['Action', 'Indie']",237,80.0,237.0,0
+578080,PUBG: BATTLEGROUNDS,32,2631910,TNMverse VIP,0.14595,2023-11-20,2023,"['Action', 'Indie', 'Massively Multiplayer']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,33,1531550,Megacraft Hentai Battlegrounds,0.145572,2021-05-14,2021,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",0,78.0,56.0,0
+578080,PUBG: BATTLEGROUNDS,34,1118500,Thugsters Battle Royale,0.144423,2019-09-20,2019,"['Indie', 'Massively Multiplayer']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,35,769220,TRAFICO,0.143427,2018-01-10,2018,"['Action', 'Indie']",0,76.0,13.0,0
+578080,PUBG: BATTLEGROUNDS,36,757420,Zombie Crisis: Last One Standing,0.137739,2020-02-24,2020,"['Action', 'Adventure', 'Indie']",0,38.0,13.0,0
+578080,PUBG: BATTLEGROUNDS,37,2226830,Royale Battle: Warzone,0.136239,2023-01-06,2023,['Action'],0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,38,1748390,Rocket Bot Royale,0.135379,2022-04-20,2022,"['Action', 'Indie', 'Massively Multiplayer', 'Strategy']",189,88.0,189.0,5
+578080,PUBG: BATTLEGROUNDS,39,765410,Bean Battles,0.133824,2018-08-22,2018,"['Action', 'Indie']",6517,94.0,6517.0,39
+578080,PUBG: BATTLEGROUNDS,40,2677640,Peasant Royale,0.133558,2023-12-29,2023,"['Action', 'Massively Multiplayer', 'Free To Play']",0,71.0,295.0,0
+578080,PUBG: BATTLEGROUNDS,41,329020,Battlegrounds of Eldhelm,0.132408,2014-10-22,2014,"['Free To Play', 'Indie', 'RPG']",0,69.0,211.0,0
+578080,PUBG: BATTLEGROUNDS,42,1448600,Sheepy,0.131906,2021-07-24,2021,"['Casual', 'Free To Play', 'Indie']",0,90.0,418.0,0
+578080,PUBG: BATTLEGROUNDS,43,857240,The Prison Experiment: Battle Royale,0.131563,2018-06-01,2018,"['Violent', 'Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,44,1171800,Vrtigo,0.131404,2020-01-30,2020,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer']",0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,45,2299230,Duckball,0.131127,2023-10-12,2023,"['Action', 'Casual', 'Indie', 'Free To Play']",0,89.0,19.0,0
+578080,PUBG: BATTLEGROUNDS,46,2189890,AMBER Battle Royale,0.131052,2022-12-06,2022,"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",0,51.0,29.0,0
+578080,PUBG: BATTLEGROUNDS,47,734590,Civil Warfare: Another Bullet In The War,0.131,2018-01-22,2018,"['Violent', 'Gore', 'Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",0,35.0,76.0,0
+578080,PUBG: BATTLEGROUNDS,48,1490620,Pray And Spray,0.130872,2020-12-19,2020,['Action'],0,80.0,15.0,0
+578080,PUBG: BATTLEGROUNDS,49,725620,Battlegrounds2D.IO,0.130042,2019-08-15,2019,['Action'],0,,0.0,0
+578080,PUBG: BATTLEGROUNDS,50,1751860,Solo Royale,0.128799,2021-09-27,2021,"['Action', 'Indie', 'Strategy', 'Early Access']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,1,2251680,Epic Assassin,0.298995,2022-12-30,2022,['RPG'],0,,0.0,0
+812140,Assassin's Creed® Odyssey,2,202690,Hegemony Gold: Wars of Ancient Greece,0.197679,2012-03-30,2012,"['Indie', 'Strategy']",176,94.0,177.0,5
+812140,Assassin's Creed® Odyssey,3,1351200,Museum of War,0.192201,2020-07-28,2020,"['Action', 'Indie']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,4,383740,Marble Age: Remastered,0.189095,2020-11-03,2020,"['Indie', 'Simulation', 'Strategy']",330,85.0,330.0,5
+812140,Assassin's Creed® Odyssey,5,1452870,Roads of Time 2: Odyssey,0.169379,2021-04-08,2021,['Casual'],0,72.0,11.0,0
+812140,Assassin's Creed® Odyssey,6,1355070,Aenaon,0.160532,2020-07-26,2020,"['Adventure', 'Early Access']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,7,540690,Hellenica,0.152317,2017-01-23,2017,"['Indie', 'RPG', 'Strategy']",0,65.0,44.0,0
+812140,Assassin's Creed® Odyssey,8,1191280,12 Labours of Hercules X: Greed for Speed,0.145766,2020-04-22,2020,"['Adventure', 'Casual', 'Indie', 'Strategy']",0,71.0,21.0,3
+812140,Assassin's Creed® Odyssey,9,726630,Mare Nostrvm,0.142233,2017-11-02,2017,['Strategy'],0,85.0,21.0,1
+812140,Assassin's Creed® Odyssey,10,855390,Ryte - The Eye of Atlantis,0.138745,2021-01-27,2021,['Adventure'],0,50.0,24.0,0
+812140,Assassin's Creed® Odyssey,11,311560,Assassin’s Creed® Rogue,0.137734,2015-03-09,2015,"['Action', 'Adventure']",16625,85.0,16630.0,490
+812140,Assassin's Creed® Odyssey,12,277590,Assassin's Creed Freedom Cry,0.136298,2014-02-25,2014,"['Action', 'Adventure']",2299,76.0,2311.0,22
+812140,Assassin's Creed® Odyssey,13,983640,Theseus: Journey to Athens,0.132375,2019-02-27,2019,"['Adventure', 'Indie', 'RPG', 'Strategy']",0,93.0,15.0,0
+812140,Assassin's Creed® Odyssey,14,624560,Medusa's Labyrinth VR,0.131192,2017-05-24,2017,"['Action', 'Indie']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,15,1314000,Achilles: Legends Untold,0.131015,2023-11-02,2023,"['Action', 'Indie', 'RPG']",1452,79.0,1454.0,14
+812140,Assassin's Creed® Odyssey,16,654520,Travel Riddles: Trip To Greece,0.129081,2017-06-23,2017,['Casual'],0,,0.0,0
+812140,Assassin's Creed® Odyssey,17,582160,Assassin's Creed® Origins,0.128024,2017-10-26,2017,"['Action', 'Adventure', 'RPG']",102229,85.0,102363.0,3931
+812140,Assassin's Creed® Odyssey,18,1402350,12 Labours of Hercules XI: Painted Adventure,0.124058,2020-11-18,2020,"['Action', 'Adventure', 'Casual', 'Strategy']",0,52.0,17.0,0
+812140,Assassin's Creed® Odyssey,19,3136420,King Of The Pirates,0.124014,2024-08-30,2024,"['Action', 'Massively Multiplayer', 'Strategy', 'Free To Play']",0,72.0,43.0,0
+812140,Assassin's Creed® Odyssey,20,289650,Assassin's Creed® Unity,0.122016,2014-11-11,2014,"['Action', 'Adventure']",66482,78.0,66586.0,1709
+812140,Assassin's Creed® Odyssey,21,1299330,Victory At Sea Ironclad,0.120979,2023-04-25,2023,"['Action', 'Indie', 'Simulation', 'Strategy']",0,55.0,20.0,0
+812140,Assassin's Creed® Odyssey,22,2745040,Polismos,0.119357,2024-12-06,2024,"['Simulation', 'Strategy']",0,78.0,32.0,2
+812140,Assassin's Creed® Odyssey,23,618620,Naval Armada: Fleet Battle,0.119266,2020-01-14,2020,"['Action', 'Casual', 'Massively Multiplayer', 'Simulation', 'Free To Play']",0,55.0,170.0,4
+812140,Assassin's Creed® Odyssey,24,911400,Assassin's Creed® III Remastered,0.118699,2019-03-29,2019,"['Action', 'Adventure']",10772,61.0,10829.0,580
+812140,Assassin's Creed® Odyssey,25,1199220,An Odyssey: Echoes of War,0.118426,2019-12-26,2019,"['Adventure', 'Casual', 'Indie', 'RPG']",0,75.0,12.0,0
+812140,Assassin's Creed® Odyssey,26,1165430,1001 Jigsaw. Myths of ancient Greece (拼图),0.116469,2020-01-21,2020,['Casual'],0,66.0,12.0,0
+812140,Assassin's Creed® Odyssey,27,2776190,Crowd Control VR,0.116271,2024-02-24,2024,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,28,2307690,Ancient Saga: Vikings Journey,0.115848,2023-04-20,2023,"['Adventure', 'Casual', 'Strategy', 'Free To Play']",0,89.0,84.0,0
+812140,Assassin's Creed® Odyssey,29,566050,Zeus + Poseidon,0.115488,2016-12-15,2016,['Strategy'],1672,96.0,1672.0,115
+812140,Assassin's Creed® Odyssey,30,15100,Assassin's Creed™: Director's Cut Edition,0.113565,2008-04-09,2008,"['Action', 'Adventure']",19551,81.0,19777.0,84
+812140,Assassin's Creed® Odyssey,31,2806410,Project Entropy,0.112952,2024-04-16,2024,"['Adventure', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",0,52.0,89.0,0
+812140,Assassin's Creed® Odyssey,32,275810,7 Wonders of the Ancient World,0.112794,2014-02-18,2014,"['Casual', 'Strategy']",0,87.0,78.0,6
+812140,Assassin's Creed® Odyssey,33,806950,Victory At Sea Pacific,0.111436,2018-09-14,2018,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']",562,61.0,562.0,8
+812140,Assassin's Creed® Odyssey,34,707060,Beast Quest,0.110695,2018-03-13,2018,"['Action', 'Adventure', 'RPG']",0,29.0,41.0,0
+812140,Assassin's Creed® Odyssey,35,938740,MUSEUM VOLUME I,0.110669,2018-11-05,2018,"['Adventure', 'Indie']",0,60.0,10.0,0
+812140,Assassin's Creed® Odyssey,36,307670,Hard West,0.110577,2015-11-18,2015,"['Adventure', 'Indie', 'RPG', 'Strategy']",3920,75.0,3921.0,5
+812140,Assassin's Creed® Odyssey,37,1209410,King of Seas,0.109665,2021-05-25,2021,"['Action', 'Adventure', 'Indie', 'RPG']",567,57.0,568.0,6
+812140,Assassin's Creed® Odyssey,38,1911590,Set Sail,0.108084,2022-10-21,2022,"['Casual', 'Indie']",0,88.0,17.0,0
+812140,Assassin's Creed® Odyssey,39,3411580,Mystery of Myths: Heart of Athens Collector's Edition,0.107788,2025-01-28,2025,"['Adventure', 'Casual']",0,,0.0,1
+812140,Assassin's Creed® Odyssey,40,2467720,"Block, Love, and Ancient Greece",0.107718,2023-09-04,2023,"['Casual', 'Indie', 'Free To Play']",0,89.0,37.0,0
+812140,Assassin's Creed® Odyssey,41,2527640,Alvara,0.107609,2023-09-29,2023,"['Adventure', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,42,2994850,Poseidon,0.10699,2024-05-30,2024,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,43,354380,Assassin’s Creed® Chronicles: China,0.10676,2015-04-21,2015,"['Action', 'Adventure']",3330,73.0,3333.0,18
+812140,Assassin's Creed® Odyssey,44,421790,The Bradwell Conspiracy,0.106192,2019-10-08,2019,"['Adventure', 'Casual', 'Indie']",0,59.0,61.0,0
+812140,Assassin's Creed® Odyssey,45,1199540,Spartan Commander Realtime,0.105939,2020-03-31,2020,"['Action', 'Adventure', 'Free To Play', 'Indie', 'RPG', 'Simulation']",0,41.0,17.0,0
+812140,Assassin's Creed® Odyssey,46,1576420,Black Trail VR,0.105908,2024-04-08,2024,"['Action', 'Adventure', 'Indie']",0,51.0,29.0,0
+812140,Assassin's Creed® Odyssey,47,1545830,Yaengard,0.105525,2022-05-05,2022,"['Adventure', 'RPG']",118,75.0,118.0,0
+812140,Assassin's Creed® Odyssey,48,33230,Assassin's Creed 2,0.105041,2010-03-09,2010,"['Action', 'Adventure']",49557,89.0,49589.0,1125
+812140,Assassin's Creed® Odyssey,49,361110,Prometheus - The Fire Thief,0.104524,2015-04-20,2015,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+812140,Assassin's Creed® Odyssey,50,854030,Ancient Journey VR,0.104478,2018-06-08,2018,"['Adventure', 'Casual', 'Indie']",0,35.0,14.0,0

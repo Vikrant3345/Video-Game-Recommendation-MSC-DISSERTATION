@@ -1,0 +1,16 @@
+{
+    "model_name": "IDF-weighted structured metadata recommender",
+    "tag_weight": 0.6,
+    "genre_weight": 0.25,
+    "play_mode_weight": 0.15,
+    "distance_metric": "cosine",
+    "nearest_neighbour_algorithm": "brute",
+    "candidate_pool": 100,
+    "exported_candidates_per_query": 50,
+    "case_study_queries": [
+        "ELDEN RING",
+        "Red Dead Redemption 2",
+        "PUBG: BATTLEGROUNDS",
+        "Assassin's Creed Odyssey"
+    ]
+}

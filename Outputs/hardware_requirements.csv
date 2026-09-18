@@ -1,0 +1,878 @@
+appid,game_name,minimum_requirements,recommended_requirements
+338390,The Technomancer,"Minimum:
+OS *:
+Windows 7 / 8 / 10 (64-bit versions only)
+Processor:
+AMD FX-4100 X4 (3,6 GHz)/Intel Core i5-2500 (3,3 GHz)
+Memory:
+4 GB RAM
+Graphics:
+1 GB, DirectX 11, AMD Radeon HD 6950/NVIDIA GeForce GTX 560
+DirectX:
+Version 11
+Storage:
+11 GB available space
+Sound Card:
+DirectX compatible
+Additional Notes:
+Internet connection required for game activation",
+746850,Cloudpunk,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/10 (64 bit)
+Processor:
+AMD / Intel CPU (AMD FX-4300 or Intel i3-4130 or newer)
+Memory:
+8 GB RAM
+Graphics:
+AMD / NVIDIA dedicated graphics card, with at least 2GB of dedicated VRAM and Shader Model 5.1 support (AMD R9 285 and NVIDIA GeForce GTX 760 or newer)
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+7 GB available space
+Sound Card:
+Integrated or dedicated DirectX 9 compatible soundcard
+Additional Notes:
+Controller or keyboard + mouse. This game fully supports
+GeForce Now
+. If your PC does not meet the minimum requirements, you can link your Steam library and play it there. It works really well, even on low-end PCs, Mac or Android devices.","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10 (64 bit)
+Processor:
+AMD / Intel CPU (AMD Ryzen 3 1300x or Intel i7-930 or newer)
+Memory:
+16 GB RAM
+Graphics:
+AMD / NVIDIA dedicated graphics card, with 6GB of dedicated VRAM and Shader Model 6.0/6.1 support (i.e. AMD RX 580 8GB and NVIDIA GeForce GTX 1060 or newer)
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+7 GB available space
+Sound Card:
+Integrated or dedicated DirectX 9 compatible soundcard
+Additional Notes:
+SSD drive, Controller or keyboard + mouse"
+2457220,Avowed,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10/11 with updates
+Processor:
+AMD Ryzen 5 2600 / Intel i5-8400
+Memory:
+16 GB RAM
+Graphics:
+AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580
+DirectX:
+Version 12
+Storage:
+75 GB available space","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10/11 with updates
+Processor:
+AMD Ryzen 5 5600X / Intel i7-10700K
+Memory:
+16 GB RAM
+Graphics:
+Graphics: AMD RX 6800 XT / Nvidia RTX 3080
+DirectX:
+Version 12
+Storage:
+75 GB available space"
+345350,LIGHTNING RETURNS™: FINAL FANTASY® XIII,"Minimum:
+OS *:
+Windows® XP SP2 or later
+Processor:
+2GHz Dual Core CPU
+Memory:
+1500 MB RAM
+Graphics:
+NVIDIA® Geforce® 8800GT / ATI Radeon™ HD 4770 VRAM 512MB or later
+DirectX:
+Version 9.0c
+Storage:
+22 GB available space
+Sound Card:
+Sound card compatible with DirectX® 9.0c
+Additional Notes:","Recommended:
+OS *:
+Windows® Vista/ 7/ 8
+Processor:
+Intel® Core™ 2 Quad (2.66 GHz)/ AMD Phenom™ II X4 (2.8 GHz) processor
+Memory:
+2 GB RAM
+Graphics:
+NVIDIA® Geforce® GTX™ 460/ ATI Radeon™ HD 5770
+DirectX:
+Version 9.0c
+Storage:
+22 GB available space
+Sound Card:
+Sound card compatible with DirectX® 9.0c
+Additional Notes:
+*Maximum supported frame rate: 60fps
+*Graphic Options
+*A game controller using Xinput is recomended for this game. (If using a DirectInput based controller, please use the driver side key configuration to adjust settings as required )"
+292030,The Witcher 3: Wild Hunt,"Minimum:
+OS *:
+64-bit Windows 7, 64-bit Windows 8 (8.1)
+Processor:
+Intel CPU Core i5-2500K 3.3GHz / AMD A10-5800K APU (3.8GHz)
+Memory:
+6 GB RAM
+Graphics:
+Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870
+DirectX:
+Version 11
+Storage:
+50 GB available space","Recommended:
+OS:
+64-bit Windows 10/11
+Processor:
+Intel Core i5-7400 / Ryzen 5 1600
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GTX 1070 / Radeon RX 480
+DirectX:
+Version 12
+Storage:
+50 GB available space"
+337000,Deus Ex: Mankind Divided,"Minimum:
+OS *:
+Windows 7.1SP1 or above (64-bit Operating System Required)
+Processor:
+Intel Core i3-2100 or AMD equivalent
+Memory:
+8 GB RAM
+Graphics:
+AMD Radeon HD 7870 (2GB) or NVIDIA GeForce GTX 660 (2GB)
+Storage:
+45 GB available space","Recommended:
+OS:
+Windows 10 64-bit
+Processor:
+Intel Core i7-3770K or AMD FX 8350 Wraith
+Memory:
+16 GB RAM
+Graphics:
+AMD Radeon RX 480 - 1920 x 1080 or NVIDIA GTX 970 - 1920 x 1080
+Storage:
+55 GB available space
+Additional Notes:
+55GB HD space includes DLC"
+606880,GreedFall,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64 bits)
+Processor:
+Intel Core i5-3450 (3.1 GHz) / AMD FX-6300 X6 (3.5 GHz)
+Memory:
+8 GB RAM
+Graphics:
+2 GB, GeForce GTX 660/Radeon HD 7870
+Storage:
+25 GB available space
+Additional Notes:
+INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64 bits)
+Processor:
+Intel Core i5-4690 (3.5 GHz)/AMD FX-8300 (3.3 GHz)
+Memory:
+16 GB RAM
+Graphics:
+4 GB, GeForce GTX 980 / Radeon RX 590
+Storage:
+25 GB available space
+Additional Notes:
+INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION"
+1716740,Starfield,"Minimum:
+OS:
+Windows 10 version 21H1 (10.0.19043)
+Processor:
+AMD Ryzen 5 2600X, Intel Core i7-6800K
+Memory:
+16 GB RAM
+Graphics:
+AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti
+DirectX:
+Version 12
+Storage:
+125 GB available space
+Additional Notes:
+SSD Required","Recommended:
+OS:
+Windows 10/11 with updates
+Processor:
+AMD Ryzen 5 3600X, Intel i5-10600K
+Memory:
+16 GB RAM
+Graphics:
+AMD Radeon RX 6800 XT, NVIDIA GeForce RTX 2080
+DirectX:
+Version 12
+Network:
+Broadband Internet connection
+Storage:
+125 GB available space
+Additional Notes:
+SSD Required"
+578650,The Outer Worlds,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7 (SP1) 64bit
+Processor:
+Intel Core i3-3225 or AMD Phenom II X6 1100T
+Memory:
+4 GB RAM
+Graphics:
+Nvidia GTX 650 Ti or AMD HD 7850
+Storage:
+40 GB available space","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10 64bit
+Processor:
+Intel Core i7-7700K or Ryzen 5 1600
+Memory:
+8 GB RAM
+Graphics:
+GeForce GTX 1060 6GB or Radeon RX 470
+Storage:
+40 GB available space"
+1776380,STAR OCEAN THE DIVINE FORCE,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 / Windows® 11 64-bit
+Processor:
+Intel® Core™ i7-7700 / AMD Ryzen™ 5 1500X
+Memory:
+16 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 1060 6 GB VRAM / AMD Radeon™ RX 580
+DirectX:
+Version 11
+Storage:
+70 GB available space
+Additional Notes:
+1280x720, ""Prioritize Image Quality"", Quality Preset ""Normal"", 50+ FPS Minimum 4GB VRAM required SSD storage recommended","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 / Windows® 11 64-bit
+Processor:
+Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600X
+Memory:
+16 GB RAM
+Graphics:
+NVIDIA® GeForce® RTX 2070 / AMD Radeon™ RX 5700 XT
+DirectX:
+Version 11
+Storage:
+70 GB available space
+Additional Notes:
+1920x1080, ""Prioritize Image Quality"", Quality Preset ""High"", 60 FPS (capped) SSD storage recommended"
+378540,The Surge,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit)
+Processor:
+AMD FX-8320 (3,5 GHz) / Intel i5-4690K (3,5 GHz)
+Memory:
+8 GB RAM
+Graphics:
+1 GB, AMD Radeon R7 360 / NVIDIA GeForce GTX 560 Ti
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+15 GB available space
+Additional Notes:
+INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit)
+Processor:
+AMD FX-8370 (4,0 GHz) / Intel Core i7-3820 (3,6 GHz)
+Memory:
+16 GB RAM
+Graphics:
+4 GB, AMD Radeon RX 480 / NVIDIA GeForce GTX 970
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+15 GB available space
+Additional Notes:
+INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION"
+954740,Terminator: Resistance,"Minimum:
+OS *:
+Windows 7/8/10 64-bit
+Processor:
+Intel Core i3 4160 @ 3.6GHz/AMD FX 8350 @ 4.0GHz or better
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GTX 1050/AMD RX 560 or better
+DirectX:
+Version 11
+Storage:
+32 GB available space
+Sound Card:
+DirectX compatible soundcard or onboard chipset
+Additional Notes:
+For 1080p 60FPS at medium settings","Recommended:
+OS:
+Windows 10 64-bit
+Processor:
+Intel Core i5 8400 @ 2.8GHz/AMD Ryzen 5 2600 @ 3.4GHz or better
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GTX 1070/AMD RX 590 or better
+DirectX:
+Version 11
+Storage:
+32 GB available space
+Sound Card:
+DirectX compatible soundcard or onboard chipset
+Additional Notes:
+For 1440p and higher, 60FPS with high or epic settings"
+644830,The Surge 2,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit)
+Processor:
+AMD FX-8320 (3.5 GHz) / Intel i5-4690K (3.5 GHz)
+Memory:
+8 GB RAM
+Graphics:
+2 GB, AMD Radeon R9 280 / NVIDIA GeForce GTX 950
+DirectX:
+Version 11
+Storage:
+20 GB available space
+Additional Notes:
+Requires a graphics card compatible with Vulkan, requires Internet connection for online features.","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit)
+Processor:
+AMD FX-8370 (4.0 GHz) / Intel Core i7-3820 (3.6 GHz)
+Memory:
+16 GB RAM
+Graphics:
+6 GB, AMD Radeon RX Vega 56 / NVIDIA GeForce GTX 980 Ti
+DirectX:
+Version 11
+Storage:
+20 GB available space
+Additional Notes:
+Requires a graphics card compatible with Vulkan, requires Internet connection for online features."
+243000,Omikron: The Nomad Soul,"Minimum:
+OS *:
+Windows XP / Vista / 7 / 8
+Processor:
+1.8 GHz Processor
+Memory:
+512 MB RAM
+Graphics:
+3D graphics card with 1 GB of RAM
+DirectX:
+Version 9.0c
+Storage:
+2 GB available space",
+377160,Fallout 4,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit OS required)
+Processor:
+Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent
+Storage:
+30 GB available space","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10 (64-bit OS required)
+Processor:
+Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent
+Storage:
+30 GB available space"
+1501750,Lords of the Fallen,"Minimum:
+OS:
+Windows 10 64bit
+Processor:
+intel i5 8400 | AMD Ryzen 5 2600
+Memory:
+12 GB RAM
+Graphics:
+6GBs VRAM | NVIDIA GTX-1060 | AMD Radeon RX 590
+DirectX:
+Version 12
+Storage:
+45 GB available space
+Additional Notes:
+720p Low Quality Settings (30FPS) | SSD (Preferred) | HDD (Supported)","Recommended:
+OS:
+Windows 10 64bit
+Processor:
+intel i7 8700 | AMD Ryzen 5 3600
+Memory:
+16 GB RAM
+Graphics:
+8GBs VRAM | NVIDIA RTX-2080 | AMD Radeon RX 6700
+DirectX:
+Version 12
+Network:
+Broadband Internet connection
+Storage:
+45 GB available space
+Additional Notes:
+1080p High Quality Settings (60FPS) | SSD Required"
+678960,CODE VEIN,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7 SP1 or Windows 10 (64-bit)
+Processor:
+Intel Core i5-2300
+Memory:
+6 GB RAM
+Graphics:
+GeForce GTX 760 or Radeon HD 7850
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+35 GB available space
+Sound Card:
+DirectX compatible soundcard or onboard chipset
+Additional Notes:
+Estimated performance: 1080p/60fps with graphics settings at ""Low"". Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required.","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7 SP1 or Windows 10 (64-bit)
+Processor:
+Intel Core i5-7400 or AMD Ryzen 3 2200G
+Memory:
+8 GB RAM
+Graphics:
+GeForce GTX 960 or Radeon R9 380X
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+35 GB available space
+Sound Card:
+DirectX compatible soundcard or onboard chipset
+Additional Notes:
+Estimated performance: 1080p/60fps with graphics settings at ""High"".  Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."
+335300,DARK SOULS™ II: Scholar of the First Sin,"Minimum:
+OS *:
+Windows 7 SP1 64bit, Windows 8.1 64bit
+Processor:
+AMD® A8 3870 3,6 Ghz or Intel® Core ™ i3 2100 3.1Ghz
+Memory:
+4 GB RAM
+Graphics:
+NVIDIA® GeForce  GTX 465 / ATI Radeon TM HD 6870
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+23 GB available space
+Sound Card:
+DirectX 11 sound device","Recommended:
+OS *:
+Windows 7 SP1 64bit, Windows 8.1 64bit
+Processor:
+AMD® FX 8150 3.6 GHz or Intel® Core™ i7 2600 3.4 GHz
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 750, ATI Radeon™ HD 7850
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+23 GB available space
+Sound Card:
+DirectX 11 sound device"
+374320,DARK SOULS™ III,"Minimum:
+OS *:
+Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit
+Processor:
+Intel Core i3-2100 / AMD® FX-6300
+Memory:
+4 GB RAM
+Graphics:
+NVIDIA® GeForce GTX 750 Ti / ATI Radeon HD 7950
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+25 GB available space
+Sound Card:
+DirectX 11 sound device
+Additional Notes:
+Internet connection required for online play and product activation","Recommended:
+OS *:
+Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit
+Processor:
+Intel Core i7-3770 / AMD® FX-8350
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA® GeForce GTX 970 / ATI Radeon R9 series
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+25 GB available space
+Sound Card:
+DirectX 11 sound device
+Additional Notes:
+Internet connection required for online play and product activation"
+1358700,STRANGER OF PARADISE FINAL FANTASY ORIGIN,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 64-bit
+Processor:
+AMD Ryzen™ 5 1400 / Intel® Core™ i7-6700
+Memory:
+8 GB RAM
+Graphics:
+AMD Radeon™ RX 470 / NVIDIA® GeForce® GTX 1060 6GB VRAM
+DirectX:
+Version 11
+Storage:
+90 GB available space
+Additional Notes:
+30FPS (1280x720)","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 64-bit
+Processor:
+AMD Ryzen™ 5 1600 / Intel® Core™ i7-8700
+Memory:
+16 GB RAM
+Graphics:
+AMD Radeon™ RX 5700 XT / NVIDIA® GeForce® GTX 1660 SUPER
+DirectX:
+Version 11
+Storage:
+90 GB available space
+Additional Notes:
+60FPS (1920x1080)"
+637650,FINAL FANTASY XV WINDOWS EDITION,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows® 7 SP1/ Windows® 8.1 / Windows® 10 64-bit
+Processor:
+Intel® Core™ i5-2500（3.3GHz and above）/ AMD FX™-6100 （3.3GHz and above）
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 760 / NVIDIA® GeForce® GTX 1050 / AMD Radeon™ R9 280
+DirectX:
+Version 11
+Storage:
+100 GB available space
+Sound Card:
+DirectSound® compatible sound card, Windows Sonic and Dolby Atmos support
+Additional Notes:
+720p 30fps","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows® 7 SP1/ Windows® 8.1 / Windows® 10 64-bit
+Processor:
+Intel® Core™ i7-3770（3.4GHz and above）/ AMD FX™-8350（4.0 GHz and above）
+Memory:
+16 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 1060 6 GB VRAM / Radeon™ RX 480
+DirectX:
+Version 11
+Storage:
+100 GB available space
+Sound Card:
+DirectSound® compatible sound card, Windows Sonic and Dolby Atmos support
+Additional Notes:
+1080p 30fps"
+2130510,Divinus Vanitas,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10
+Processor:
+Intel Core i5-9600 or equivalent
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA GTX 970
+DirectX:
+Version 11
+Storage:
+16 GB available space","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10
+Processor:
+Intel Core i5-12600 or equivalent
+Memory:
+16 GB RAM
+Graphics:
+NVIDIA RTX 3060
+DirectX:
+Version 12
+Storage:
+20 GB available space"
+485510,Nioh: Complete Edition,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 64bit
+Processor:
+Intel® Core™ i5 3550 or over
+Memory:
+6 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 780 VRAM 3GB or over　AMD Radeon™ R9 280 VRAM 3GB or over
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+80 GB available space
+Sound Card:
+16 bit stereo, 48KHz WAVE file can be played","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10 64bit
+Processor:
+Intel® Core™ i7 4770K or over
+Memory:
+8 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 1060 VRAM 6GB or over　AMD Radeon™ R9 380X VRAM 4GB or over
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+80 GB available space
+Sound Card:
+16 bit stereo, 48KHz WAVE file can be played"
+1448440,Wo Long: Fallen Dynasty,"Minimum:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10, Windows® 11, 64bit
+Processor:
+Intel® Core™ i5-8400、AMD Ryzen™ 5 3400G
+Memory:
+8 GB RAM
+Graphics:
+GeForce GTX 1650 4GB、Radeon RX 570 4GB
+DirectX:
+Version 12
+Network:
+Broadband Internet connection
+Storage:
+60 GB available space
+Sound Card:
+16 bit stereo, 48kHz WAVE file can be played
+Additional Notes:
+Based on an HDD, 720p, 30 fps environment, and Graphics Settings set to ""Best Performance.""","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows® 10, Windows® 11, 64bit
+Processor:
+Intel® Core™ i7-8700、AMD Ryzen™ 5 3600XT
+Memory:
+16 GB RAM
+Graphics:
+GeForce RTX 2060 6GB、Radeon RX 5700XT 8GB
+DirectX:
+Version 12
+Network:
+Broadband Internet connection
+Storage:
+60 GB available space
+Sound Card:
+16 bit stereo, 48kHz WAVE file can be played
+Additional Notes:
+Based on an HDD, 1080p, 60 fps environment, and Graphcs Settings set to ""Standard."""
+236430,DARK SOULS™ II,"Minimum:
+OS *:
+Windows Vista SP2, Windows 7 SP1, Windows 8
+Processor:
+AMD® Phenom II™ X2 555 3.2Ghz or Intel® Pentium Core ™ 2 Duo E8500 3.17Ghz
+Memory:
+2 GB RAM
+Graphics:
+NVIDIA® GeForce® 9600GT, ATI Radeon™ HD 5870
+DirectX:
+Version 9.0c
+Network:
+Broadband Internet connection
+Storage:
+12 GB available space
+Sound Card:
+DirectX 9 sound device
+Additional Notes:
+Controller support: Microsoft Xbox 360® Controller for Windows® (or equivalent) recommended","Recommended:
+OS *:
+Windows 7 SP1, Windows 8
+Processor:
+Intel® CoreTM i3 2100 3.10GHz or AMD® A8 3870K 3.0GHz
+Memory:
+4 GB RAM
+Graphics:
+NVIDIA® GeForce® GTX 750 or ATI Radeon™ HD 6870 or higher
+DirectX:
+Version 9.0c
+Network:
+Broadband Internet connection
+Storage:
+15 GB available space
+Sound Card:
+DirectX 9 sound device
+Additional Notes:
+Controller support: Microsoft Xbox 360® Controller for Windows® (or equivalent) recommended"
+649950,Ashen,"Minimum:
+OS:
+Windows 10 (64 Bit)
+Processor:
+Intel Core i3 @ 3.5GHz or AMD FX-4170
+Memory:
+4 GB RAM
+Graphics:
+Nvidia GeForce GTX 760 or AMD R7 270X (2GB VRAM)
+DirectX:
+Version 11
+Storage:
+15 GB available space","Recommended:
+OS:
+Windows 10 (64 Bit)
+Processor:
+Intel Core i5 @ 3.5GHz or AMD FX 6 Core
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GeForce GTX 970 or AMD R9 290X (4GB VRAM)
+DirectX:
+Version 11
+Storage:
+15 GB available space"
+1766100,The Last Hero of Nostalgaia,"Minimum:
+OS:
+Windows 10 64-bit
+Processor:
+Intel i3 Skylake | AMD FX-6000
+Memory:
+8 GB RAM
+Graphics:
+AMD Radeon R7 260X | NVIDIA GeForce GTX 750 Ti
+Storage:
+4 GB available space","Recommended:
+OS:
+Windows 10 64-bit
+Processor:
+Intel i5 Coffee Lake | AMD Ryzen 3
+Memory:
+8 GB RAM
+Graphics:
+AMD Radeon RX 570 | NVIDIA GeForce GTX 970
+Storage:
+4 GB available space"
+1944360,Rune Teller,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10/11 (64 Bit)
+Processor:
+Intel Core i5-2500 or equivalent
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GTX 760 or equivalent
+Storage:
+4 GB available space","Recommended:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7/8/10/11 (64 Bit)
+Processor:
+Intel Core i5-7600 or equivalent
+Memory:
+8 GB RAM
+Graphics:
+Nvidia GTX 1060 or equivalent
+Storage:
+4 GB available space"
+243930,Bound By Flame,"Minimum:
+OS *:
+WINDOWS XP SP3/WINDOWS VISTA SP2/WINDOWS 7/WINDOWS 8
+Processor:
+AMD/INTEL DUAL-CORE 2.2 GHZ
+Memory:
+2048 MB RAM
+Graphics:
+512 MB 100% DIRECTX 9 AND SHADERS 4.0 COMPATIBLE ATI RADEON HD 4850/NVIDIA GEFORCE 8800 GT OR HIGHER
+Storage:
+6 GB available space
+Sound Card:
+DIRECTX 9 COMPATIBLE
+Additional Notes:
+INTERNET CONNECTION REQUIRED FOR THE GAME ACTIVATION",
+899440,GOD EATER 3,"Minimum:
+Requires a 64-bit processor and operating system
+OS *:
+Windows 7 64-bit, SP1
+Processor:
+Intel Core i5-3470 or AMD FX-8120
+Memory:
+4 GB RAM
+Graphics:
+GeForce GTX 760 or Radeon R9 290X
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+25 GB available space
+Additional Notes:
+Estimated performance: 1080p/60fps with graphics settings at ""Low"". Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required.","Recommended:
+Requires a 64-bit processor and operating system
+OS:
+Windows 10 64-bit
+Processor:
+Intel Core i7-3770 or AMD Ryzen 5 1600
+Memory:
+8 GB RAM
+Graphics:
+GeForce GTX 970 or Radeon R9 fury
+DirectX:
+Version 11
+Network:
+Broadband Internet connection
+Storage:
+25 GB available space
+Additional Notes:
+Estimated performance: 1080p/60fps with graphics settings at ""High"".  Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."

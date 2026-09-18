@@ -1,0 +1,24 @@
+{
+    "model_name": "Description-based rich-text TF-IDF recommender",
+    "primary_text_field": "about_the_game_clean",
+    "fallback_text_field": "short_description_clean",
+    "minimum_description_words": 30,
+    "max_features": 30000,
+    "ngram_range": [
+        1,
+        2
+    ],
+    "min_df": 3,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "distance_metric": "cosine",
+    "nearest_neighbour_algorithm": "brute",
+    "candidate_pool": 100,
+    "exported_candidates_per_query": 50,
+    "case_study_queries": [
+        "ELDEN RING",
+        "Red Dead Redemption 2",
+        "PUBG: BATTLEGROUNDS",
+        "Assassin's Creed Odyssey"
+    ]
+}

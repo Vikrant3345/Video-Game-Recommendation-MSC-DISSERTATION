@@ -1,0 +1,37 @@
+{
+    "model_name": "Weighted bipartite graph similarity recommender",
+    "feature_types": [
+        "genre",
+        "category",
+        "tag",
+        "developer",
+        "publisher"
+    ],
+    "relation_weights": {
+        "genre": 0.8,
+        "category": 0.6,
+        "tag": 1.0,
+        "developer": 0.4,
+        "publisher": 0.3
+    },
+    "edge_frequency_weighting": "inverse document frequency",
+    "singleton_entities_removed": true,
+    "tag_relation_representation": "binary tag presence",
+    "matrix_shape": [
+        89618,
+        25873
+    ],
+    "non_zero_relationships": 1749653,
+    "retained_feature_nodes": 25873,
+    "retained_graph_edges": 1749653,
+    "row_normalisation": "L2",
+    "similarity_metric": "cosine via sparse dot product",
+    "candidate_pool": 100,
+    "exported_candidates_per_query": 50,
+    "case_study_queries": [
+        "ELDEN RING",
+        "Red Dead Redemption 2",
+        "PUBG: BATTLEGROUNDS",
+        "Assassin's Creed Odyssey"
+    ]
+}
