@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+sentence-transformers==5.6.0
+requests
+beautifulsoup4
+ipython
