@@ -1,0 +1,11 @@
+model,query_game,runtime_seconds
+semantic,Counter-Strike 2,0.042627011000035964
+semantic,Grand Theft Auto V Legacy,0.04770858599999883
+semantic,Stardew Valley,0.03326785000001564
+semantic,Sid Meier's Civilization VI,0.03337463200000457
+semantic,Hollow Knight,0.03374598900001047
+semantic,The Witcher 3: Wild Hunt,0.03340726800001903
+semantic,Hades,0.03327353000003086
+semantic,Deep Rock Galactic,0.03453999200002045
+semantic,Factorio,0.03340257299998939
+semantic,Phasmophobia,0.033762315999979364

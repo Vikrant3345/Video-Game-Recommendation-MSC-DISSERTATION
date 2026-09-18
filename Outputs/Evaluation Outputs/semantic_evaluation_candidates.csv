@@ -1,0 +1,501 @@
+query_appid,query_game,semantic_rank,appid,recommended_game,semantic_score,release_date,release_year,genres,recommendations,pct_pos_total,num_reviews_total,peak_ccu
+730,Counter-Strike 2,1,240,Counter-Strike: Source,0.718965,2004-11-01,2004,['Action'],124112,96.0,124438.0,14426
+730,Counter-Strike 2,2,666220,CS2D,0.717478,2017-11-15,2017,"['Action', 'Casual', 'Indie', 'Free To Play']",0,90.0,9880.0,29
+730,Counter-Strike 2,3,3262530,Source Code,0.660345,2024-11-13,2024,"['Action', 'Adventure', 'Massively Multiplayer', 'Simulation', 'Sports']",0,62.0,32.0,0
+730,Counter-Strike 2,4,1549660,Skybox3D,0.626486,2021-06-09,2021,"['Strategy', 'Education', 'Software Training', 'Utilities']",0,,0.0,0
+730,Counter-Strike 2,5,1213210,Command & Conquer™ Remastered Collection,0.618713,2020-06-05,2020,['Strategy'],29101,90.0,29134.0,1488
+730,Counter-Strike 2,6,1962660,Call of Duty®: Modern Warfare® II,0.609849,2022-10-27,2022,['Action'],6914,21.0,6919.0,0
+730,Counter-Strike 2,7,2735020,Cyber Rush,0.608657,2024-04-23,2024,"['Action', 'Adventure']",0,50.0,10.0,0
+730,Counter-Strike 2,8,2504460,CSOL,0.596918,2023-08-04,2023,"['Massively Multiplayer', 'RPG']",0,46.0,69.0,0
+730,Counter-Strike 2,9,454350,Days of War: Definitive Edition,0.596511,2020-02-04,2020,"['Action', 'Indie']",1367,49.0,1367.0,0
+730,Counter-Strike 2,10,2710800,Counter Attack,0.596497,2023-12-17,2023,"['Action', 'Early Access']",0,,0.0,0
+730,Counter-Strike 2,11,432870,Special Tactics,0.591195,2016-04-26,2016,"['Action', 'Free To Play', 'Indie', 'Simulation', 'Strategy']",0,83.0,119.0,0
+730,Counter-Strike 2,12,393080,Call of Duty®: Modern Warfare® Remastered (2017),0.590991,2017-07-27,2017,['Action'],11476,52.0,11482.0,73
+730,Counter-Strike 2,13,2308470,Pixel Wars,0.590467,2023-04-18,2023,"['Strategy', 'Free To Play']",0,85.0,14.0,0
+730,Counter-Strike 2,14,611500,Quake Champions,0.586454,2022-08-18,2022,"['Action', 'Free To Play']",6323,73.0,38215.0,442
+730,Counter-Strike 2,15,1574870,USC: Counterforce,0.586208,2024-07-18,2024,"['Indie', 'RPG', 'Strategy']",169,68.0,169.0,1
+730,Counter-Strike 2,16,273110,Counter-Strike Nexon,0.583284,2014-10-07,2014,"['Action', 'Casual', 'Massively Multiplayer', 'Free To Play']",591,66.0,42408.0,630
+730,Counter-Strike 2,17,202990,Call of Duty®: Black Ops II,0.582912,2012-11-12,2012,['Action'],20661,86.0,20738.0,172
+730,Counter-Strike 2,18,202970,Call of Duty®: Black Ops II,0.582912,2012-11-12,2012,['Action'],20658,86.0,20738.0,330
+730,Counter-Strike 2,19,3106530,Command & Conquer™ Tiberium Alliances,0.58211,2025-02-27,2025,"['Massively Multiplayer', 'Strategy', 'Free To Play']",0,32.0,130.0,0
+730,Counter-Strike 2,20,2285620,WarfareBattle,0.580996,2023-02-09,2023,"['Action', 'Casual', 'Early Access']",0,,0.0,0
+730,Counter-Strike 2,21,722750,The KillBox: Aquarius,0.580353,2017-10-22,2017,[],0,51.0,89.0,0
+730,Counter-Strike 2,22,1590010,Re-Spawn Tournament,0.579274,2022-09-01,2022,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+730,Counter-Strike 2,23,2281730,Combat Master: Season 3,0.57789,2023-04-21,2023,"['Action', 'Free To Play']",0,88.0,43467.0,0
+730,Counter-Strike 2,24,1076160,Command: Modern Operations,0.576651,2019-11-14,2019,['Simulation'],1240,84.0,1241.0,112
+730,Counter-Strike 2,25,50100,Sid Meier's Civilization® V,0.573629,2010-09-21,2010,['Strategy'],122991,95.0,123177.0,0
+730,Counter-Strike 2,26,2958690,Clutch-Master,0.571675,2024-09-01,2024,['Action'],0,,0.0,0
+730,Counter-Strike 2,27,674020,World War 3,0.56927,2022-12-10,2022,"['Action', 'Free To Play']",29009,54.0,54388.0,229
+730,Counter-Strike 2,28,2476720,MetaStrike,0.568233,2024-09-25,2024,"['Action', 'Massively Multiplayer']",0,42.0,26.0,0
+730,Counter-Strike 2,29,2008420,Flashback 2,0.568153,2023-11-16,2023,"['Action', 'Adventure']",0,38.0,91.0,1
+730,Counter-Strike 2,30,96800,Nexuiz,0.567278,2012-05-10,2012,['Action'],199,54.0,199.0,0
+730,Counter-Strike 2,31,1364180,Counter Operation Online,0.566987,2020-11-01,2020,"['Massively Multiplayer', 'Early Access']",0,,0.0,0
+730,Counter-Strike 2,32,1585660,DIRECT shot,0.566957,2021-06-02,2021,"['Action', 'Early Access']",0,50.0,51.0,0
+730,Counter-Strike 2,33,2430360,Code of War Gun Shooting Games,0.56607,2023-05-28,2023,"['Action', 'Massively Multiplayer', 'Simulation', 'Sports']",0,46.0,82.0,0
+730,Counter-Strike 2,34,783770,Ironsight,0.562969,2019-06-19,2019,"['Action', 'Free To Play']",0,72.0,22325.0,211
+730,Counter-Strike 2,35,476600,Call of Duty®: WWII,0.562743,2017-11-02,2017,['Action'],29731,70.0,29849.0,672
+730,Counter-Strike 2,36,476620,Call of Duty®: WWII,0.562743,2017-11-02,2017,['Action'],29696,70.0,29849.0,307
+730,Counter-Strike 2,37,636150,Cyberhunt,0.562575,2017-05-19,2017,"['Action', 'Adventure', 'Casual', 'Indie']",1749,83.0,1757.0,81
+730,Counter-Strike 2,38,2582480,Ground Wars KDR Alpha,0.560457,2023-10-19,2023,"['Action', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+730,Counter-Strike 2,39,2438160,World War Armies,0.560389,2024-05-02,2024,"['Action', 'Strategy', 'Free To Play']",0,60.0,681.0,0
+730,Counter-Strike 2,40,2440220,Warbyte: Operation Falcon,0.560366,2024-03-07,2024,['Action'],0,,0.0,0
+730,Counter-Strike 2,41,1788620,Task Force 88: Hostile Contact,0.559721,2021-11-08,2021,"['Action', 'Indie', 'Massively Multiplayer']",0,,0.0,0
+730,Counter-Strike 2,42,863460,Cyber Ops,0.55951,2020-05-21,2020,"['Action', 'Indie', 'Simulation', 'Strategy']",0,42.0,99.0,0
+730,Counter-Strike 2,43,625340,XERA: Survival,0.559089,2021-09-26,2021,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",1913,66.0,7758.0,59
+730,Counter-Strike 2,44,2229890,Command & Conquer Renegade™,0.558414,2024-03-07,2024,"['Action', 'Adventure', 'Strategy']",589,84.0,594.0,0
+730,Counter-Strike 2,45,2838380,Battle Room Beta,0.557519,2024-03-22,2024,"['Action', 'Free To Play', 'Early Access']",0,69.0,36.0,0
+730,Counter-Strike 2,46,990750,RoboSnakes: Core Wars Legacy,0.557228,2018-12-26,2018,"['Indie', 'Strategy', 'Early Access']",0,,0.0,0
+730,Counter-Strike 2,47,324520,Defense Zone 3 Ultra HD,0.55687,2016-12-14,2016,"['Action', 'Indie', 'Strategy']",464,79.0,465.0,14
+730,Counter-Strike 2,48,2807390,District Panic,0.556757,2024-06-20,2024,"['Action', 'Casual', 'Indie', 'Early Access']",0,100.0,19.0,0
+730,Counter-Strike 2,49,366440,Savage Resurrection,0.556112,2016-08-18,2016,"['Action', 'RPG', 'Strategy']",847,51.0,847.0,0
+730,Counter-Strike 2,50,957790,War Dust VR: 32v32 Battlefields,0.556077,2020-05-06,2020,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation']",1486,80.0,1487.0,0
+271590,Grand Theft Auto V Legacy,1,3240220,Grand Theft Auto V Enhanced,0.815636,2025-03-04,2025,"['Action', 'Adventure', 'Racing']",15444,54.0,19644.0,127949
+271590,Grand Theft Auto V Legacy,2,1546970,Grand Theft Auto III – The Definitive Edition,0.729129,2023-01-19,2023,"['Action', 'Adventure']",3564,66.0,3589.0,115
+271590,Grand Theft Auto V Legacy,3,1546990,Grand Theft Auto: Vice City – The Definitive Edition,0.728611,2023-01-19,2023,"['Action', 'Adventure']",4407,79.0,4433.0,230
+271590,Grand Theft Auto V Legacy,4,1423980,Streatham Hill Stories,0.644074,2020-10-23,2020,"['Action', 'Indie', 'Massively Multiplayer']",0,66.0,36.0,0
+271590,Grand Theft Auto V Legacy,5,1324630,Drive-By Cop,0.622144,2021-07-26,2021,"['Action', 'Indie', 'Racing']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,6,1547000,Grand Theft Auto: San Andreas – The Definitive Edition,0.617798,2023-01-19,2023,"['Action', 'Adventure']",7526,76.0,7593.0,525
+271590,Grand Theft Auto V Legacy,7,2495560,Crime Pays,0.604325,2023-09-22,2023,"['Action', 'Adventure', 'RPG', 'Simulation']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,8,1521580,Perfect Heist 2,0.604159,2021-12-10,2021,"['Action', 'Casual', 'Indie', 'Strategy']",2986,94.0,2986.0,43
+271590,Grand Theft Auto V Legacy,9,777040,Criminal Bundle,0.60304,2018-02-13,2018,"['Action', 'Indie']",0,53.0,13.0,0
+271590,Grand Theft Auto V Legacy,10,2305740,Miami Horizon 2077,0.601294,2024-11-18,2024,"['Action', 'Indie']",0,81.0,11.0,0
+271590,Grand Theft Auto V Legacy,11,722230,L.A. Noire: The VR Case Files,0.598697,2017-12-15,2017,"['Action', 'Adventure']",881,51.0,883.0,2
+271590,Grand Theft Auto V Legacy,12,3401880,Street Crime Mission,0.592762,2025-01-20,2025,"['Action', 'Indie', 'Simulation']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,13,2199640,Cyber Cartels,0.59218,2023-03-31,2023,"['Action', 'Adventure', 'Casual']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,14,347820,Street Arena,0.587489,2015-07-10,2015,"['Action', 'Indie', 'Racing']",0,47.0,46.0,0
+271590,Grand Theft Auto V Legacy,15,916320,Fair Deal: Las Vegas,0.583774,2018-12-21,2018,"['Action', 'Indie']",0,100.0,12.0,0
+271590,Grand Theft Auto V Legacy,16,2933080,Crime Boss: Rockay City,0.582003,2024-06-18,2024,['Action'],4831,72.0,4840.0,153
+271590,Grand Theft Auto V Legacy,17,1928790,Corleone Online,0.573509,2022-06-24,2022,"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer', 'RPG']",0,71.0,21.0,0
+271590,Grand Theft Auto V Legacy,18,1112570,Crime Cities,0.572689,2019-10-01,2019,"['Action', 'Simulation']",0,56.0,37.0,0
+271590,Grand Theft Auto V Legacy,19,3056040,Wasted Shot,0.571902,2024-07-22,2024,"['Action', 'Adventure', 'Indie', 'Early Access']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,20,2870670,Getaway Driver,0.566021,2024-03-23,2024,['Action'],0,,0.0,0
+271590,Grand Theft Auto V Legacy,21,934780,American Fugitive,0.563589,2019-05-21,2019,"['Action', 'Adventure', 'Indie']",1812,76.0,1812.0,6
+271590,Grand Theft Auto V Legacy,22,548860,The Torus Syndicate,0.56217,2016-11-22,2016,"['Action', 'Adventure', 'Indie', 'Early Access']",0,65.0,23.0,0
+271590,Grand Theft Auto V Legacy,23,2358050,GraalOnline Era,0.560998,2024-02-16,2024,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",0,71.0,552.0,0
+271590,Grand Theft Auto V Legacy,24,2300040,Gangster City: Mafia Car Driving,0.553486,2023-02-12,2023,"['Action', 'Indie', 'Racing', 'RPG', 'Simulation']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,25,1385480,Gangster Empire: Vendetta,0.552757,2020-08-17,2020,['Strategy'],0,,0.0,0
+271590,Grand Theft Auto V Legacy,26,2295580,Police Car Armored: Cop Simulator,0.552565,2023-02-14,2023,"['Action', 'Indie', 'Racing', 'RPG', 'Simulation']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,27,1907400,Captain Gazman Day Of The Rage,0.551993,2024-12-25,2024,"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,28,749370,The Perfect Sniper,0.551293,2018-01-21,2018,"['Violent', 'Gore', 'Action']",0,36.0,19.0,0
+271590,Grand Theft Auto V Legacy,29,403590,Klepto,0.548923,2016-06-30,2016,"['Action', 'Indie', 'Simulation', 'Early Access']",199,25.0,199.0,0
+271590,Grand Theft Auto V Legacy,30,2542320,DCOP,0.548716,2023-10-20,2023,['Action'],0,85.0,14.0,0
+271590,Grand Theft Auto V Legacy,31,394010,The Contact,0.547462,2016-04-10,2016,"['Action', 'Indie', 'RPG', 'Simulation', 'Early Access']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,32,1803600,Gone Rogue,0.545523,2023-03-01,2023,"['Adventure', 'RPG', 'Strategy']",233,87.0,233.0,5
+271590,Grand Theft Auto V Legacy,33,331220,Thief Town,0.543306,2014-12-04,2014,"['Action', 'Indie']",104,77.0,104.0,0
+271590,Grand Theft Auto V Legacy,34,998480,Gangsta Sniper 2: Revenge,0.542092,2019-02-03,2019,"['Action', 'Adventure', 'Indie']",0,40.0,10.0,0
+271590,Grand Theft Auto V Legacy,35,3527610,Money Theft,0.54116,2025-02-28,2025,"['Action', 'Indie']",0,90.0,11.0,0
+271590,Grand Theft Auto V Legacy,36,1018960,Thugs Law,0.540995,2021-05-18,2021,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,37,1449640,Revenge on the Streets 2,0.540076,2020-12-25,2020,"['Action', 'Indie']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,38,1687700,Crash Time - Undercover,0.539318,2024-07-25,2024,"['Action', 'Racing']",0,84.0,91.0,0
+271590,Grand Theft Auto V Legacy,39,1397390,The Break-In,0.538951,2023-07-17,2023,"['Action', 'Indie', 'Simulation', 'Early Access']",1818,90.0,1818.0,22
+271590,Grand Theft Auto V Legacy,40,842530,Police Patrol,0.537073,2018-04-23,2018,"['Action', 'Casual', 'Indie', 'Racing']",0,26.0,19.0,0
+271590,Grand Theft Auto V Legacy,41,1342790,GangV | VR & PC Battle Royale,0.536965,2021-04-16,2021,"['Action', 'Massively Multiplayer', 'Early Access']",328,62.0,329.0,0
+271590,Grand Theft Auto V Legacy,42,598550,HUNTDOWN,0.53592,2021-05-12,2021,"['Action', 'Indie']",3313,94.0,3319.0,17
+271590,Grand Theft Auto V Legacy,43,2451320,Bulletstorm VR,0.535691,2024-01-18,2024,"['Action', 'Adventure']",127,49.0,128.0,0
+271590,Grand Theft Auto V Legacy,44,787040,Perfect Heist,0.535318,2018-08-17,2018,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",376,75.0,376.0,6
+271590,Grand Theft Auto V Legacy,45,728830,San Matias -- Mafia City,0.534859,2018-02-13,2018,"['Action', 'Adventure', 'Indie']",0,77.0,18.0,0
+271590,Grand Theft Auto V Legacy,46,1174180,Red Dead Redemption 2,0.534349,2019-12-05,2019,"['Action', 'Adventure']",640318,92.0,640849.0,39811
+271590,Grand Theft Auto V Legacy,47,1173260,Gangsta Sniper 3: Final Parody,0.533924,2019-11-12,2019,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,48,1370430,Police Chase,0.533513,2021-03-12,2021,"['Casual', 'Indie', 'Racing', 'Simulation', 'Strategy']",0,63.0,33.0,0
+271590,Grand Theft Auto V Legacy,49,3003960,Guns Demons,0.533153,2024-06-28,2024,"['Action', 'Racing']",0,,0.0,0
+271590,Grand Theft Auto V Legacy,50,261110,Killer is Dead - Nightmare Edition,0.531778,2014-05-23,2014,['Action'],3629,76.0,3630.0,6
+413150,Stardew Valley,1,433670,Professional Farmer 2017,0.761788,2016-03-23,2016,['Simulation'],0,12.0,63.0,0
+413150,Stardew Valley,2,1746930,SunnySide,0.757023,2024-06-14,2024,"['Casual', 'Indie', 'RPG', 'Simulation']",829,68.0,832.0,22
+413150,Stardew Valley,3,444440,Scapeland,0.751767,2016-03-31,2016,"['Action', 'Adventure', 'Casual', 'Indie']",0,51.0,29.0,0
+413150,Stardew Valley,4,799240,My Free Farm 2,0.748854,2018-04-03,2018,"['Casual', 'Simulation', 'Free To Play']",0,59.0,703.0,129
+413150,Stardew Valley,5,1329510,Big Farm Story,0.745108,2021-08-02,2021,"['Adventure', 'Casual', 'RPG', 'Simulation']",1095,78.0,1095.0,10
+413150,Stardew Valley,6,678900,Farmer's Dynasty,0.742472,2019-11-21,2019,"['Adventure', 'Casual', 'RPG', 'Simulation']",3208,77.0,3210.0,75
+413150,Stardew Valley,7,1049880,My Free Farm,0.737966,2019-08-26,2019,"['Casual', 'Simulation', 'Free To Play']",0,68.0,79.0,11
+413150,Stardew Valley,8,3442040,Dream Life in the Country Side,0.737163,2025-03-07,2025,"['Casual', 'RPG', 'Simulation']",0,92.0,27.0,0
+413150,Stardew Valley,9,2019380,Pocket Harvest,0.729028,2023-01-15,2023,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,91.0,56.0,1
+413150,Stardew Valley,10,2195500,Green Valley,0.728993,2023-01-17,2023,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,11,2566440,FarmCraft,0.7268,2023-09-15,2023,"['Casual', 'Simulation']",0,,0.0,1
+413150,Stardew Valley,12,994230,Farming Village,0.721601,2019-08-16,2019,"['Adventure', 'Casual', 'RPG', 'Simulation', 'Strategy']",0,,0.0,0
+413150,Stardew Valley,13,1403520,Forest Farm,0.709441,2021-11-03,2021,"['Casual', 'Indie', 'RPG', 'Simulation']",0,50.0,12.0,0
+413150,Stardew Valley,14,821820,Farmer's Fairy Tale,0.708911,2021-05-30,2021,"['Casual', 'RPG', 'Simulation']",0,46.0,30.0,1
+413150,Stardew Valley,15,2923010,Field of Growth: A Farmer's Odyssey,0.706334,2024-04-25,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,16,2420240,HAREM！RANCH LIFE,0.704704,2024-08-23,2024,"['Casual', 'Indie', 'RPG', 'Simulation']",152,66.0,153.0,1
+413150,Stardew Valley,17,2014620,Farming Fever - Pizza and Burger Cooking game,0.70271,2023-07-20,2023,"['Casual', 'Simulation', 'Free To Play']",0,74.0,288.0,0
+413150,Stardew Valley,18,1432860,Sun Haven,0.701349,2023-03-10,2023,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",18725,82.0,18733.0,1459
+413150,Stardew Valley,19,1350840,Song Of The Prairie,0.699877,2024-07-31,2024,"['Casual', 'Indie', 'RPG', 'Simulation']",1175,79.0,1175.0,51
+413150,Stardew Valley,20,789100,My Little Farmies,0.697255,2018-02-27,2018,"['Casual', 'Simulation', 'Free To Play']",0,55.0,529.0,138
+413150,Stardew Valley,21,2142790,Fields of Mistria,0.694896,2024-08-05,2024,"['Indie', 'RPG', 'Simulation', 'Early Access']",15997,97.0,16096.0,2713
+413150,Stardew Valley,22,90200,Farming Simulator 2011,0.694439,2010-10-29,2010,['Simulation'],764,91.0,765.0,10
+413150,Stardew Valley,23,2270410,Farmburgh,0.689064,2023-05-02,2023,"['Casual', 'Simulation']",0,75.0,16.0,1
+413150,Stardew Valley,24,2615630,Global Farmer,0.687355,2024-10-07,2024,"['Simulation', 'Strategy', 'Early Access']",108,50.0,108.0,1
+413150,Stardew Valley,25,1964820,Sprout Valley,0.686825,2023-09-08,2023,"['Casual', 'Indie', 'RPG', 'Simulation']",0,66.0,77.0,3
+413150,Stardew Valley,26,1123830,Farm Manager 2021,0.685788,2021-05-06,2021,"['Casual', 'Indie', 'Simulation', 'Strategy']",2047,79.0,2047.0,67
+413150,Stardew Valley,27,1649500,Sundermead,0.685674,2024-06-26,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,28,496460,Life is Feudal: Forest Village,0.68553,2017-05-26,2017,"['Indie', 'Simulation', 'Strategy']",5102,65.0,5104.0,66
+413150,Stardew Valley,29,1435780,Farm Frenzy: Refreshed,0.684389,2021-01-27,2021,"['Casual', 'Simulation', 'Strategy']",114,82.0,114.0,8
+413150,Stardew Valley,30,496380,A Verdant Hue,0.683637,2016-07-26,2016,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,31,2542080,Shoot & Sow,0.683533,2024-02-29,2024,"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+413150,Stardew Valley,32,2370390,Farm Business,0.682828,2023-05-12,2023,"['Casual', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,33,535260,Save Home,0.682797,2016-09-30,2016,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']",0,58.0,67.0,1
+413150,Stardew Valley,34,2210020,Across the Valley,0.68279,2023-04-06,2023,"['Casual', 'Indie', 'Simulation']",0,75.0,16.0,0
+413150,Stardew Valley,35,1605430,Roots of Tomorrow,0.682426,2022-05-11,2022,"['Indie', 'Simulation', 'Strategy']",0,65.0,66.0,0
+413150,Stardew Valley,36,2724550,榜一大哥幻想曲,0.681742,2024-11-07,2024,"['Casual', 'Indie', 'RPG', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,37,2593970,Blocky Farm,0.681578,2024-08-30,2024,"['Casual', 'Simulation', 'Strategy']",0,,0.0,0
+413150,Stardew Valley,38,517270,Pro Farm Manager,0.680346,2017-11-20,2017,"['Simulation', 'Strategy', 'Early Access']",0,25.0,24.0,0
+413150,Stardew Valley,39,1231520,Farmtale,0.675753,2020-04-13,2020,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",250,66.0,250.0,0
+413150,Stardew Valley,40,3230880,It's A Farmer Thing,0.674202,2024-11-01,2024,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,41,984250,Red Tractor Tycoon,0.671039,2019-02-19,2019,"['Simulation', 'Early Access']",0,65.0,20.0,0
+413150,Stardew Valley,42,1707850,Cheaphaven,0.670454,2022-07-22,2022,"['Casual', 'Indie', 'RPG', 'Simulation']",0,96.0,25.0,0
+413150,Stardew Valley,43,236790,Agricultural Simulator 2013 - Steam Edition,0.668808,2013-06-07,2013,"['Casual', 'Simulation']",389,21.0,389.0,0
+413150,Stardew Valley,44,1245560,Roots of Pacha,0.668764,2023-04-25,2023,"['Indie', 'RPG', 'Simulation']",2987,93.0,2991.0,286
+413150,Stardew Valley,45,667820,Farmington Tales,0.668225,2017-07-18,2017,"['Casual', 'Simulation']",0,90.0,44.0,0
+413150,Stardew Valley,46,1050540,Valley Of The Moon,0.666622,2019-09-03,2019,"['Adventure', 'Indie']",0,10.0,10.0,0
+413150,Stardew Valley,47,2989390,Puzzle Garden,0.666411,2024-06-02,2024,"['Casual', 'Simulation', 'Strategy', 'Free To Play']",0,95.0,22.0,0
+413150,Stardew Valley,48,1007560,Fun VR Farm,0.663194,2019-01-23,2019,"['Adventure', 'Indie', 'Simulation']",0,,0.0,0
+413150,Stardew Valley,49,1434490,Farm Day 2021,0.66218,2020-11-11,2020,['Indie'],0,65.0,38.0,0
+413150,Stardew Valley,50,2566450,FarmCraft 2,0.661306,2023-10-02,2023,"['Casual', 'Simulation', 'Strategy']",0,76.0,13.0,1
+289070,Sid Meier’s Civilization® VI,1,1295660,Sid Meier's Civilization VII,0.684342,2025-02-10,2025,"['Simulation', 'Strategy']",27276,49.0,27464.0,21380
+289070,Sid Meier’s Civilization® VI,2,1379370,4 Civilizations,0.638217,2020-08-28,2020,"['Indie', 'Simulation', 'Strategy']",0,85.0,14.0,0
+289070,Sid Meier’s Civilization® VI,3,2181940,CivIdle,0.622634,2024-02-16,2024,"['Indie', 'Simulation', 'Strategy', 'Free To Play', 'Early Access']",0,75.0,585.0,0
+289070,Sid Meier’s Civilization® VI,4,50100,Sid Meier's Civilization® V,0.619103,2010-09-21,2010,['Strategy'],122991,95.0,123177.0,0
+289070,Sid Meier’s Civilization® VI,5,3354170,Supreme Power,0.608435,2025-02-28,2025,"['Simulation', 'Strategy']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,6,3104240,Pyramid Clicker,0.603169,2024-11-06,2024,['Casual'],0,,0.0,0
+289070,Sid Meier’s Civilization® VI,7,228260,Fallen Enchantress: Legendary Heroes,0.600308,2013-05-22,2013,"['Indie', 'RPG', 'Strategy']",1595,78.0,1595.0,25
+289070,Sid Meier’s Civilization® VI,8,1057740,World Of Conquerors,0.586539,2019-08-30,2019,"['Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy']",0,62.0,95.0,0
+289070,Sid Meier’s Civilization® VI,9,1180130,The Final Earth 2,0.584447,2022-07-15,2022,"['Indie', 'Simulation', 'Strategy']",266,96.0,267.0,6
+289070,Sid Meier’s Civilization® VI,10,517810,Caesar™ IV,0.582389,2016-08-29,2016,"['Simulation', 'Strategy']",713,71.0,719.0,54
+289070,Sid Meier’s Civilization® VI,11,1504550,循环世界,0.580864,2021-01-13,2021,"['Casual', 'Indie', 'Racing', 'Simulation', 'Strategy']",0,66.0,18.0,0
+289070,Sid Meier’s Civilization® VI,12,2147730,WarKind,0.579423,2022-10-11,2022,"['Action', 'Casual', 'Free To Play', 'Indie', 'Strategy']",0,50.0,18.0,0
+289070,Sid Meier’s Civilization® VI,13,3183500,Epoch of Guardians,0.579324,2025-01-16,2025,"['Indie', 'Strategy']",0,82.0,29.0,12
+289070,Sid Meier’s Civilization® VI,14,227060,Hegemony Rome: The Rise of Caesar,0.576566,2014-05-15,2014,"['Indie', 'RPG', 'Simulation', 'Strategy']",333,59.0,333.0,0
+289070,Sid Meier’s Civilization® VI,15,2315990,孵化之地 wild eclosion,0.576108,2023-07-06,2023,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,16,2228280,MEMORIAPOLIS,0.574359,2024-08-29,2024,"['Indie', 'Simulation', 'Strategy', 'Early Access']",1291,80.0,1294.0,58
+289070,Sid Meier’s Civilization® VI,17,1887190,Civilization Simulator,0.570639,2023-09-24,2023,"['Casual', 'Indie', 'Simulation']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,18,3340050,Global Chess,0.570421,2024-12-15,2024,"['Strategy', 'Free To Play', 'Early Access']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,19,779380,Atmocity,0.569021,2019-07-30,2019,"['Indie', 'Simulation', 'Strategy', 'Early Access']",0,63.0,19.0,0
+289070,Sid Meier’s Civilization® VI,20,1120340,Meu Mundo,0.56828,2019-08-05,2019,"['Casual', 'Indie', 'RPG', 'Simulation']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,21,3096390,SanGuos3,0.568211,2024-08-01,2024,"['Simulation', 'Strategy']",0,,0.0,4
+289070,Sid Meier’s Civilization® VI,22,1646120,Citizens: Far Lands,0.565525,2022-07-14,2022,"['Simulation', 'Strategy']",0,77.0,76.0,3
+289070,Sid Meier’s Civilization® VI,23,1011390,Field of Glory: Empires,0.56515,2019-07-11,2019,['Strategy'],706,81.0,706.0,33
+289070,Sid Meier’s Civilization® VI,24,2542860,Conquest of Empires 2,0.561407,2023-12-19,2023,"['Massively Multiplayer', 'Simulation', 'Strategy']",0,60.0,133.0,0
+289070,Sid Meier’s Civilization® VI,25,2275940,Rogue Hex,0.55942,2025-01-13,2025,"['Indie', 'Simulation', 'Strategy', 'Early Access']",108,91.0,112.0,20
+289070,Sid Meier’s Civilization® VI,26,1481170,ZEPHON,0.558837,2024-11-08,2024,"['RPG', 'Simulation', 'Strategy']",1040,87.0,1042.0,92
+289070,Sid Meier’s Civilization® VI,27,214150,Galactic Civilizations® I: Ultimate Edition,0.558182,2012-08-14,2012,"['Indie', 'Strategy']",122,41.0,122.0,4
+289070,Sid Meier’s Civilization® VI,28,603850,Age of History II,0.557189,2018-11-21,2018,['Strategy'],43115,89.0,43165.0,1101
+289070,Sid Meier’s Civilization® VI,29,226860,Galactic Civilizations III,0.556009,2015-05-14,2015,['Strategy'],8221,76.0,8221.0,140
+289070,Sid Meier’s Civilization® VI,30,1875060,Reus 2,0.555349,2024-05-28,2024,"['Indie', 'Simulation', 'Strategy']",1695,95.0,1695.0,84
+289070,Sid Meier’s Civilization® VI,31,600250,Art of Guile,0.554505,2017-08-11,2017,"['Action', 'Indie', 'RPG', 'Strategy', 'Early Access']",0,82.0,17.0,0
+289070,Sid Meier’s Civilization® VI,32,767300,War of Conquest,0.554357,2018-09-20,2018,"['Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",0,55.0,27.0,1
+289070,Sid Meier’s Civilization® VI,33,1148750,Advisors at the End of the Universe,0.55249,2023-10-23,2023,"['Indie', 'Strategy']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,34,299070,Warrior Kings: Battles,0.551679,2014-05-06,2014,['Strategy'],270,91.0,270.0,3
+289070,Sid Meier’s Civilization® VI,35,236850,Europa Universalis IV,0.549978,2013-08-13,2013,"['Simulation', 'Strategy']",90664,87.0,89312.0,19240
+289070,Sid Meier’s Civilization® VI,36,394360,Hearts of Iron IV,0.546596,2016-06-06,2016,"['Simulation', 'Strategy']",237325,91.0,232964.0,53652
+289070,Sid Meier’s Civilization® VI,37,1822550,Microcivilization,0.542762,2023-11-13,2023,"['Indie', 'Strategy', 'Early Access']",1068,84.0,1069.0,72
+289070,Sid Meier’s Civilization® VI,38,615020,King of the World,0.542417,2018-10-22,2018,"['Free To Play', 'Indie', 'Strategy']",0,82.0,130.0,0
+289070,Sid Meier’s Civilization® VI,39,1532240,PocketCiv,0.542352,2024-01-23,2024,['Strategy'],0,,0.0,0
+289070,Sid Meier’s Civilization® VI,40,1998670,Medieval Knight,0.541382,2023-12-27,2023,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,41,1197110,Advancity,0.541147,2020-04-22,2020,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,42,1455300,Glory of Rome,0.541027,2022-01-07,2022,"['Indie', 'Simulation', 'Strategy']",0,80.0,35.0,1
+289070,Sid Meier’s Civilization® VI,43,1284080,Legion Gold,0.540773,2020-07-09,2020,['Strategy'],0,83.0,96.0,5
+289070,Sid Meier’s Civilization® VI,44,873790,Freebot : Battle for FreeWeb,0.540356,2018-06-18,2018,"['Action', 'Indie']",0,61.0,18.0,0
+289070,Sid Meier’s Civilization® VI,45,2550440,Dynaforce,0.540072,2023-09-25,2023,"['Action', 'Adventure', 'Casual', 'Indie']",0,,0.0,0
+289070,Sid Meier’s Civilization® VI,46,2310690,Extra Lives,0.539944,2023-03-01,2023,"['Action', 'Adventure', 'Indie']",0,93.0,59.0,0
+289070,Sid Meier’s Civilization® VI,47,46770,Making History II: The War of the World,0.539579,2010-08-27,2010,"['Indie', 'Simulation', 'Strategy']",322,81.0,322.0,23
+289070,Sid Meier’s Civilization® VI,48,1606340,Conquest of Elysium 5,0.539019,2021-08-17,2021,"['Indie', 'Strategy']",936,89.0,950.0,129
+289070,Sid Meier’s Civilization® VI,49,287450,Rise of Nations: Extended Edition,0.538733,2014-06-12,2014,"['Simulation', 'Strategy']",12160,94.0,12171.0,736
+289070,Sid Meier’s Civilization® VI,50,998830,The Last Roman Village,0.538169,2019-07-26,2019,"['Adventure', 'Casual', 'Indie', 'Strategy']",0,61.0,13.0,0
+367520,Hollow Knight,1,2506740,Abyssal Descent,0.73435,2024-06-06,2024,"['Action', 'Adventure', 'Indie', 'Strategy', 'Free To Play']",0,,0.0,0
+367520,Hollow Knight,2,1262920,Horned Knight,0.729828,2021-02-26,2021,"['Action', 'Indie']",0,,0.0,0
+367520,Hollow Knight,3,2497840,Dungeon Watchers,0.728926,2024-11-22,2024,"['Action', 'Casual', 'Indie', 'Early Access']",0,100.0,11.0,0
+367520,Hollow Knight,4,401170,Birth of Shadows®,0.728861,2015-11-05,2015,"['Action', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+367520,Hollow Knight,5,1873570,Everblade,0.72304,2022-05-06,2022,"['Adventure', 'Indie']",0,63.0,22.0,0
+367520,Hollow Knight,6,732770,Knight Terrors,0.72036,2017-10-31,2017,"['Action', 'Indie']",0,90.0,32.0,0
+367520,Hollow Knight,7,1634100,No More Rainbows,0.719264,2023-06-01,2023,"['Action', 'Adventure', 'Casual']",102,94.0,103.0,0
+367520,Hollow Knight,8,3008960,Dungeon Reborn,0.714212,2024-10-27,2024,"['Action', 'Indie', 'RPG', 'Strategy', 'Early Access']",0,,0.0,0
+367520,Hollow Knight,9,304050,Trove,0.712218,2015-07-09,2015,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",977,80.0,92302.0,900
+367520,Hollow Knight,10,1494260,Loot River,0.71221,2022-05-03,2022,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",319,70.0,319.0,1
+367520,Hollow Knight,11,2617740,Cacildes Adventure,0.711847,2024-04-27,2024,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+367520,Hollow Knight,12,1534700,Swords & Bones,0.709165,2021-03-01,2021,"['Action', 'Adventure', 'Indie', 'RPG']",0,93.0,59.0,0
+367520,Hollow Knight,13,1459010,Fallen Leaf,0.707796,2024-07-15,2024,"['Action', 'Indie']",187,91.0,187.0,4
+367520,Hollow Knight,14,1534840,Hyper Light Breaker,0.70634,2025-01-14,2025,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2748,63.0,2758.0,48
+367520,Hollow Knight,15,928960,Godfall Ultimate Edition,0.704919,2022-04-07,2022,"['Action', 'Adventure']",1528,64.0,1531.0,15
+367520,Hollow Knight,16,528010,Eternal Return,0.704764,2017-02-23,2017,"['Action', 'Adventure', 'Indie']",0,53.0,26.0,0
+367520,Hollow Knight,17,364480,Red Goblin: Cursed Forest,0.704526,2015-05-15,2015,"['Casual', 'Indie']",0,33.0,18.0,4
+367520,Hollow Knight,18,1045180,Shattered - Tale of the Forgotten King,0.703149,2021-02-17,2021,"['Action', 'Adventure', 'Indie', 'RPG']",538,68.0,542.0,3
+367520,Hollow Knight,19,486500,Spooky Heroes,0.700182,2016-06-23,2016,"['Action', 'Adventure', 'Casual', 'Indie']",0,,0.0,0
+367520,Hollow Knight,20,3400080,Fantasy Soul Revenge,0.698733,2024-12-28,2024,"['Action', 'Casual', 'Indie', 'Simulation', 'Strategy']",0,,0.0,0
+367520,Hollow Knight,21,1182770,Caves and Castles: Underworld,0.697849,2019-11-06,2019,"['Adventure', 'Casual', 'Indie']",0,,0.0,0
+367520,Hollow Knight,22,358320,Realms of Chaos,0.697834,2014-05-05,2014,"['Action', 'Adventure']",0,96.0,26.0,0
+367520,Hollow Knight,23,3024490,Dungeon Run,0.697612,2024-08-06,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+367520,Hollow Knight,24,848200,Azuran Tales: Trials,0.696655,2018-06-01,2018,"['Action', 'Adventure', 'Indie', 'RPG']",0,60.0,23.0,0
+367520,Hollow Knight,25,1480410,Sentinel: Cursed Knight,0.695706,2021-04-08,2021,"['Action', 'Adventure', 'Indie', 'RPG']",0,66.0,12.0,0
+367520,Hollow Knight,26,2228900,It Is A Good Knight To Die,0.695521,2024-12-20,2024,"['Action', 'Indie']",0,,0.0,0
+367520,Hollow Knight,27,808010,Critadel,0.694992,2021-10-12,2021,"['Action', 'Adventure', 'Indie', 'RPG']",189,80.0,190.0,2
+367520,Hollow Knight,28,1129730,Lost Existence,0.694721,2021-01-07,2021,"['Action', 'Adventure', 'Indie', 'RPG']",0,67.0,62.0,0
+367520,Hollow Knight,29,2452650,Hell Throne,0.694085,2023-11-15,2023,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+367520,Hollow Knight,30,691280,SINNER: Sacrifice for Redemption,0.693569,2018-10-22,2018,"['Action', 'Indie']",770,65.0,769.0,1
+367520,Hollow Knight,31,2508070,KnightMan,0.69211,2023-07-27,2023,"['Action', 'Adventure', 'Casual', 'Indie']",0,,0.0,0
+367520,Hollow Knight,32,357830,Attack of the Labyrinth +,0.69139,2015-03-30,2015,"['Action', 'Indie']",0,65.0,63.0,0
+367520,Hollow Knight,33,374040,Portal Knights,0.690734,2017-05-18,2017,"['Action', 'Adventure', 'RPG']",16273,83.0,16274.0,110
+367520,Hollow Knight,34,1184760,Shovel Knight Pocket Dungeon,0.689631,2021-12-13,2021,"['Action', 'Adventure', 'Indie']",439,91.0,439.0,3
+367520,Hollow Knight,35,2649040,DarkLight: Platformer,0.689526,2024-02-14,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+367520,Hollow Knight,36,1369630,ENDER LILIES: Quietus of the Knights,0.68781,2021-06-21,2021,"['Action', 'Indie', 'RPG']",35328,94.0,35371.0,335
+367520,Hollow Knight,37,1174820,Tower Of Heresy,0.687648,2020-01-08,2020,"['Action', 'Adventure', 'Indie', 'RPG']",0,84.0,13.0,0
+367520,Hollow Knight,38,3059290,Deep Dungeon Knight,0.686206,2024-07-07,2024,"['Casual', 'Indie']",0,,0.0,0
+367520,Hollow Knight,39,1539080,The Immortal,0.685851,2021-03-30,2021,"['Action', 'Adventure', 'RPG', 'Strategy']",0,,0.0,0
+367520,Hollow Knight,40,2426840,DRAGOT,0.685775,2023-10-27,2023,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+367520,Hollow Knight,41,3028390,Knight Fall,0.685104,2024-06-25,2024,"['Action', 'Adventure', 'Indie', 'Strategy']",0,,0.0,0
+367520,Hollow Knight,42,2711240,Kingdom of Bärn,0.684863,2023-12-18,2023,"['Action', 'Adventure', 'RPG']",0,82.0,17.0,0
+367520,Hollow Knight,43,272470,The Incredible Adventures of Van Helsing II,0.684703,2014-06-13,2014,"['Action', 'Adventure', 'Indie', 'RPG']",1878,70.0,1879.0,8
+367520,Hollow Knight,44,3238710,Pulse,0.684646,2024-10-05,2024,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+367520,Hollow Knight,45,985260,The Morrigan,0.683995,2020-03-31,2020,"['Action', 'Adventure', 'Indie', 'RPG']",238,86.0,238.0,1
+367520,Hollow Knight,46,1227650,Bang-On Balls: Chronicles,0.683179,2023-10-05,2023,"['Action', 'Adventure', 'Casual', 'Indie']",3972,96.0,3979.0,16
+367520,Hollow Knight,47,2564240,A Dragon's Tale: Fading Light,0.683054,2024-02-15,2024,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+367520,Hollow Knight,48,1290850,Kingdom of Corrupts,0.682594,2020-06-17,2020,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+367520,Hollow Knight,49,262960,Castle In The Darkness,0.682112,2015-02-05,2015,"['Action', 'Adventure', 'Indie', 'RPG']",1146,76.0,1146.0,0
+367520,Hollow Knight,50,2316660,Halls of Torment: Prelude,0.682035,2023-03-09,2023,"['Action', 'Casual', 'Indie', 'RPG']",0,93.0,1356.0,0
+292030,The Witcher 3: Wild Hunt,1,973760,Thronebreaker: The Witcher Tales,0.81291,2018-11-09,2018,"['Adventure', 'RPG']",14748,90.0,14374.0,136
+292030,The Witcher 3: Wild Hunt,2,303800,The Witcher Adventure Game,0.797689,2014-11-27,2014,"['Adventure', 'Strategy']",1199,78.0,1047.0,3
+292030,The Witcher 3: Wild Hunt,3,2473480,Tails of Iron 2: Whiskers of Winter,0.753528,2025-01-28,2025,"['Action', 'Adventure', 'Indie', 'RPG']",899,79.0,907.0,44
+292030,The Witcher 3: Wild Hunt,4,294370,Crowntakers,0.737978,2014-11-07,2014,"['Indie', 'RPG', 'Strategy']",380,75.0,380.0,0
+292030,The Witcher 3: Wild Hunt,5,1280080,Faeland,0.730409,2023-12-05,2023,"['Adventure', 'Indie', 'RPG', 'Early Access']",140,92.0,140.0,4
+292030,The Witcher 3: Wild Hunt,6,362130,Ashes of Immortality,0.723988,2015-06-26,2015,"['Adventure', 'Casual', 'Indie', 'RPG']",0,68.0,75.0,1
+292030,The Witcher 3: Wild Hunt,7,776600,Witch Sword,0.721794,2018-01-08,2018,"['Action', 'Adventure', 'Indie', 'RPG']",0,66.0,15.0,0
+292030,The Witcher 3: Wild Hunt,8,3156770,Witchfire,0.714417,2024-09-23,2024,"['Action', 'Early Access']",7347,93.0,7392.0,253
+292030,The Witcher 3: Wild Hunt,9,2198730,Adventure Awaits,0.712782,2023-04-11,2023,"['RPG', 'Strategy']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,10,1128960,最后的巫后：众王纷争的年代 Witch Queen,0.712734,2022-03-24,2022,"['Indie', 'RPG', 'Simulation', 'Strategy']",0,73.0,26.0,0
+292030,The Witcher 3: Wild Hunt,11,1655410,Witchaven,0.710262,2021-06-17,2021,"['Action', 'RPG']",0,89.0,68.0,0
+292030,The Witcher 3: Wild Hunt,12,762240,Fantasy Realm: A Land Torn Asunder,0.704592,2018-03-27,2018,"['Indie', 'RPG', 'Early Access']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,13,263540,Villagers and Heroes,0.704167,2014-04-17,2014,"['Free To Play', 'Indie', 'Massively Multiplayer', 'RPG']",0,60.0,3338.0,49
+292030,The Witcher 3: Wild Hunt,14,3475860,Tale of Dark Lands,0.703991,2025-02-27,2025,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,15,3144510,Dumb Witchfinder,0.703846,2024-08-19,2024,"['Casual', 'Indie']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,16,2421560,Wolf Souls,0.702926,2023-12-21,2023,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,17,1403990,Paths & Danger,0.702283,2022-04-15,2022,"['Adventure', 'Indie', 'RPG', 'Strategy']",0,64.0,54.0,0
+292030,The Witcher 3: Wild Hunt,18,885890,Immortal Quest,0.702001,2018-08-17,2018,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,19,759570,Decay of Logos,0.701547,2019-08-30,2019,"['Action', 'Adventure', 'Indie', 'RPG', 'Free To Play']",169,52.0,247.0,3
+292030,The Witcher 3: Wild Hunt,20,820020,Alder's Blood: Definitive Edition,0.698887,2020-04-10,2020,"['Adventure', 'Indie', 'RPG', 'Strategy']",201,62.0,201.0,0
+292030,The Witcher 3: Wild Hunt,21,985260,The Morrigan,0.698351,2020-03-31,2020,"['Action', 'Adventure', 'Indie', 'RPG']",238,86.0,238.0,1
+292030,The Witcher 3: Wild Hunt,22,523750,The 4th Coming,0.69753,2019-11-18,2019,"['Adventure', 'Massively Multiplayer', 'RPG']",0,71.0,98.0,7
+292030,The Witcher 3: Wild Hunt,23,307010,Northmark: Hour of the Wolf,0.69661,2014-08-02,2014,"['Adventure', 'Casual', 'Indie', 'RPG']",140,86.0,140.0,1
+292030,The Witcher 3: Wild Hunt,24,483820,Four Realms,0.695307,2016-10-24,2016,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,25,663090,Granado Espada,0.695231,2017-10-15,2017,"['Free To Play', 'Massively Multiplayer', 'RPG']",0,63.0,1264.0,1242
+292030,The Witcher 3: Wild Hunt,26,401170,Birth of Shadows®,0.694321,2015-11-05,2015,"['Action', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,27,209730,R.A.W. Realms of Ancient War,0.693679,2012-10-11,2012,"['Action', 'RPG']",353,53.0,354.0,1
+292030,The Witcher 3: Wild Hunt,28,2193090,Witch Rise,0.693199,2023-04-26,2023,"['Action', 'Adventure', 'Indie', 'RPG']",0,100.0,17.0,0
+292030,The Witcher 3: Wild Hunt,29,1655430,Witchaven II: Blood Vengeance,0.69184,2021-06-17,2021,"['Action', 'RPG']",0,82.0,23.0,0
+292030,The Witcher 3: Wild Hunt,30,2399070,The Vengeance Of Lady Witch ARPG,0.690065,2023-08-02,2023,['RPG'],0,,0.0,0
+292030,The Witcher 3: Wild Hunt,31,1231000,Witchsword Remake,0.689099,2020-02-21,2020,"['Action', 'Indie', 'RPG']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,32,1300190,Crystal Story: The Hero and the Evil Witch,0.689093,2020-05-29,2020,"['Indie', 'RPG']",0,74.0,27.0,0
+292030,The Witcher 3: Wild Hunt,33,2345640,Forbidden Fantasy The RPG,0.688891,2024-03-21,2024,"['Adventure', 'Casual', 'RPG', 'Strategy']",0,,0.0,3
+292030,The Witcher 3: Wild Hunt,34,2333480,RAID: Shadow Legends,0.688716,2024-01-09,2024,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",0,60.0,1785.0,0
+292030,The Witcher 3: Wild Hunt,35,1284410,GWENT: The Witcher Card Game,0.688547,2020-05-19,2020,"['RPG', 'Strategy', 'Free To Play']",0,86.0,26310.0,701
+292030,The Witcher 3: Wild Hunt,36,1154850,9th Dawn III,0.688413,2020-10-05,2020,"['Action', 'Adventure', 'Indie', 'RPG']",461,87.0,461.0,4
+292030,The Witcher 3: Wild Hunt,37,1459010,Fallen Leaf,0.68783,2024-07-15,2024,"['Action', 'Indie']",187,91.0,187.0,4
+292030,The Witcher 3: Wild Hunt,38,2025320,Estencel,0.687138,2023-01-19,2023,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer']",0,65.0,93.0,0
+292030,The Witcher 3: Wild Hunt,39,741450,Immortal Heroes,0.687072,2017-11-24,2017,"['Adventure', 'Casual', 'Indie']",0,40.0,15.0,0
+292030,The Witcher 3: Wild Hunt,40,314120,Frayed Knights: The Skull of S'makh-Daon,0.686427,2014-07-24,2014,"['Indie', 'RPG']",0,75.0,16.0,0
+292030,The Witcher 3: Wild Hunt,41,2751580,Templar 2,0.684816,2024-07-02,2024,"['Action', 'Adventure', 'Casual', 'Indie']",0,80.0,15.0,0
+292030,The Witcher 3: Wild Hunt,42,1191330,Inferna,0.684701,2019-12-20,2019,"['Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",0,62.0,2142.0,70
+292030,The Witcher 3: Wild Hunt,43,856880,Fighting Fantasy Classics,0.684516,2018-06-05,2018,"['Indie', 'RPG', 'Free To Play']",0,79.0,309.0,3
+292030,The Witcher 3: Wild Hunt,44,1898950,O.D.T.: Escape... Or Die Trying,0.683548,2022-04-05,2022,"['Action', 'Adventure', 'RPG']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,45,704360,SACRALITH : The Archer`s Tale,0.68325,2018-05-17,2018,"['Action', 'Adventure', 'Simulation']",260,84.0,260.0,0
+292030,The Witcher 3: Wild Hunt,46,2207120,My Darkest Witch,0.683069,2022-11-19,2022,['Indie'],0,78.0,19.0,0
+292030,The Witcher 3: Wild Hunt,47,1574240,Dread Delusion,0.682093,2024-05-14,2024,"['Action', 'Adventure', 'Indie', 'RPG']",3362,90.0,3436.0,167
+292030,The Witcher 3: Wild Hunt,48,950310,Glo Phlox,0.681756,2019-08-01,2019,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+292030,The Witcher 3: Wild Hunt,49,1481060,The Dark World: Edge of Eternity,0.681139,2021-06-14,2021,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Early Access']",0,62.0,29.0,0
+292030,The Witcher 3: Wild Hunt,50,3002100,Wheel Of Fates,0.681138,2024-10-25,2024,"['Adventure', 'Indie', 'RPG', 'Free To Play']",0,93.0,16.0,0
+1145360,Hades,1,1145350,Hades II,0.792749,2024-05-06,2024,"['Action', 'Indie', 'RPG', 'Early Access']",57717,94.0,57793.0,7793
+1145360,Hades,2,2761710,Skulls of Olympus,0.792432,2024-02-23,2024,"['Action', 'Adventure', 'Indie', 'Early Access']",0,,0.0,0
+1145360,Hades,3,2441080,Godsvivors,0.792388,2024-02-14,2024,"['Action', 'Indie']",0,85.0,82.0,0
+1145360,Hades,4,1195340,Hermes: Rescue Mission,0.75213,2019-11-20,2019,"['Adventure', 'Casual', 'Indie']",0,100.0,10.0,1
+1145360,Hades,5,2053890,冥界崛起,0.749023,2022-08-04,2022,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+1145360,Hades,6,788100,Neon Abyss,0.729964,2020-07-14,2020,"['Action', 'Adventure', 'Indie', 'RPG']",19155,86.0,19164.0,149
+1145360,Hades,7,520300,Underworld Dungeon,0.718604,2017-07-31,2017,"['Action', 'Adventure', 'Indie', 'RPG']",0,85.0,14.0,0
+1145360,Hades,8,2452650,Hell Throne,0.69601,2023-11-15,2023,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+1145360,Hades,9,2364790,Daedalus,0.695626,2024-02-12,2024,['Action'],0,,0.0,0
+1145360,Hades,10,295910,Olympia Rising,0.694445,2015-07-23,2015,"['Action', 'Adventure']",0,72.0,54.0,0
+1145360,Hades,11,2344520,Diablo® IV,0.691885,2023-10-17,2023,"['Action', 'RPG']",33068,71.0,33185.0,8172
+1145360,Hades,12,3358020,Olympus of the Heavens,0.691643,2025-02-15,2025,"['Action', 'Adventure', 'RPG', 'Early Access']",0,,0.0,0
+1145360,Hades,13,928670,Kids of Hellas: Back to Olympus,0.687786,2019-02-22,2019,"['Casual', 'Strategy']",0,87.0,48.0,0
+1145360,Hades,14,3119150,InfernHells: A Divine Comedy,0.682988,2024-08-11,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+1145360,Hades,15,3181290,Hell Shooter,0.682891,2025-01-07,2025,"['Action', 'Adventure', 'Indie', 'RPG']",0,100.0,58.0,0
+1145360,Hades,16,2535440,Shadows of the Damned: Hella Remastered,0.675322,2024-10-30,2024,"['Action', 'Adventure']",322,90.0,322.0,2
+1145360,Hades,17,2828340,Ancients Unleashed,0.675251,2024-06-07,2024,"['Action', 'Adventure']",0,,0.0,0
+1145360,Hades,18,2283630,No Water in Hell,0.674031,2023-12-03,2023,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+1145360,Hades,19,2176160,Souls of Tartarus,0.671423,2023-03-17,2023,"['Action', 'Casual', 'Indie', 'Early Access']",0,,0.0,0
+1145360,Hades,20,685400,Skelly Selest,0.669682,2018-05-01,2018,"['Action', 'Indie']",259,94.0,259.0,0
+1145360,Hades,21,1496530,Cinders Of Hades,0.667572,2021-01-26,2021,"['Action', 'Casual']",0,,0.0,0
+1145360,Hades,22,1851190,DEITY SOULS Plus,0.665645,2022-02-13,2022,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+1145360,Hades,23,2587030,Hellgineers,0.656897,2023-09-28,2023,"['Casual', 'Indie', 'Simulation']",0,100.0,20.0,0
+1145360,Hades,24,692840,Underworld Ascendant,0.656136,2018-11-15,2018,"['Action', 'Adventure', 'Indie', 'RPG']",671,41.0,672.0,0
+1145360,Hades,25,2511760,Nothorian,0.653444,2023-08-18,2023,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",0,,0.0,0
+1145360,Hades,26,2316660,Halls of Torment: Prelude,0.653003,2023-03-09,2023,"['Action', 'Casual', 'Indie', 'RPG']",0,93.0,1356.0,0
+1145360,Hades,27,1916850,Doomed to Hell,0.652449,2022-03-25,2022,"['Action', 'Adventure']",189,86.0,189.0,0
+1145360,Hades,28,2779800,Rite of Eris,0.652436,2024-02-01,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy', 'Early Access']",0,,0.0,0
+1145360,Hades,29,2334730,Death Must Die,0.651956,2023-11-14,2023,"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",18660,92.0,18677.0,274
+1145360,Hades,30,982380,Gods and Kings,0.6505,2018-12-24,2018,"['Free To Play', 'RPG', 'Strategy', 'Early Access']",0,56.0,44.0,0
+1145360,Hades,31,594300,Chasing Styx,0.650352,2017-03-31,2017,"['Action', 'Adventure', 'Free To Play', 'Indie']",0,83.0,93.0,0
+1145360,Hades,32,661110,Shattered God - Quest for the Divine Relic,0.648972,2017-06-26,2017,"['Action', 'Adventure', 'Indie', 'RPG']",0,,0.0,0
+1145360,Hades,33,625860,God Awe-full Clicker,0.647788,2018-09-19,2018,"['Action', 'Adventure', 'Casual', 'Free To Play', 'Indie', 'RPG', 'Simulation', 'Strategy']",0,64.0,382.0,4
+1145360,Hades,34,1277500,Skeletal Avenger,0.646321,2021-09-29,2021,"['Action', 'Adventure', 'Indie', 'RPG']",153,82.0,153.0,0
+1145360,Hades,35,2218750,Halls of Torment,0.645821,2024-09-24,2024,"['Action', 'Indie', 'RPG']",27358,95.0,27396.0,669
+1145360,Hades,36,383230,Dungeon Souls,0.644637,2016-12-02,2016,"['Action', 'Adventure', 'Indie', 'RPG']",1315,77.0,1315.0,4
+1145360,Hades,37,1016360,PERISH,0.643779,2023-02-02,2023,"['Action', 'Indie']",342,69.0,342.0,0
+1145360,Hades,38,264280,99 Levels To Hell,0.642572,2014-02-19,2014,"['Action', 'Adventure', 'Indie', 'RPG']",334,59.0,334.0,0
+1145360,Hades,39,208750,Apotheon,0.641416,2015-02-03,2015,"['Action', 'Adventure', 'Indie', 'RPG']",3158,90.0,3164.0,5
+1145360,Hades,40,252570,Depths of Fear :: Knossos,0.640178,2014-04-24,2014,"['Action', 'Adventure', 'Indie']",330,66.0,330.0,0
+1145360,Hades,41,3013740,Fields of Asphodel,0.640054,2024-09-05,2024,"['Adventure', 'Indie', 'RPG']",0,87.0,65.0,6
+1145360,Hades,42,657000,Rising Hell,0.639645,2021-05-19,2021,"['Action', 'Indie']",205,89.0,205.0,0
+1145360,Hades,43,3271490,Gates of olympus,0.63949,2025-01-10,2025,"['Casual', 'Free To Play']",0,,0.0,0
+1145360,Hades,44,356650,Death's Gambit: Afterlife,0.639469,2018-08-13,2018,"['Action', 'Adventure', 'Indie', 'RPG']",4024,81.0,4025.0,17
+1145360,Hades,45,681000,OM6N,0.639365,2024-02-06,2024,"['Action', 'Adventure', 'Indie']",0,71.0,14.0,0
+1145360,Hades,46,2510760,Gods Wars : infinity Epic,0.63876,2024-11-04,2024,"['Action', 'Indie', 'RPG']",0,82.0,63.0,1
+1145360,Hades,47,792160,Heroes Of Hellas 4: Birth Of Legend,0.637093,2018-02-14,2018,"['Adventure', 'Casual', 'Strategy']",0,90.0,43.0,0
+1145360,Hades,48,451780,Trillion: God of Destruction,0.636901,2016-11-07,2016,"['RPG', 'Strategy']",339,71.0,339.0,1
+1145360,Hades,49,2432460,Born to Rise,0.636669,2023-07-11,2023,"['Action', 'Adventure', 'Indie', 'Free To Play', 'Early Access']",0,79.0,99.0,0
+1145360,Hades,50,311250,Doorways: The Underworld,0.634505,2014-09-17,2014,"['Action', 'Adventure', 'Indie']",161,65.0,161.0,0
+548430,Deep Rock Galactic,1,2321470,Deep Rock Galactic: Survivor,0.83651,2024-02-14,2024,"['Action', 'Early Access']",33400,86.0,33638.0,2615
+548430,Deep Rock Galactic,2,507120,The Superfluous,0.737745,2017-05-19,2017,"['Action', 'Adventure', 'Indie']",0,73.0,34.0,0
+548430,Deep Rock Galactic,3,976890,Hidden Deep,0.734981,2022-01-24,2022,"['Action', 'Adventure', 'Indie', 'Early Access']",3569,78.0,3605.0,55
+548430,Deep Rock Galactic,4,455100,Gerty,0.731947,2019-12-19,2019,"['Action', 'Indie', 'RPG']",0,83.0,30.0,0
+548430,Deep Rock Galactic,5,1646050,Wilford,0.717953,2021-06-15,2021,"['Action', 'Early Access']",0,84.0,13.0,0
+548430,Deep Rock Galactic,6,3517950,Void Raiders,0.706004,2025-03-04,2025,"['Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+548430,Deep Rock Galactic,7,2143030,Cave Crawlers,0.704689,2023-07-10,2023,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy', 'Free To Play', 'Early Access']",0,93.0,2740.0,0
+548430,Deep Rock Galactic,8,1523510,Cave Digger 2 Dig Harder,0.70304,2022-09-08,2022,"['Action', 'Adventure', 'Casual', 'Indie']",0,90.0,70.0,0
+548430,Deep Rock Galactic,9,2325720,Cyber Mission,0.702968,2023-09-25,2023,"['Action', 'Indie']",0,96.0,25.0,0
+548430,Deep Rock Galactic,10,1531300,Galaxy X,0.702918,2021-03-19,2021,"['Casual', 'Strategy']",0,75.0,12.0,0
+548430,Deep Rock Galactic,11,1170940,Outerstellar,0.699475,2023-11-16,2023,"['Action', 'Indie', 'Massively Multiplayer', 'Free To Play', 'Early Access']",0,78.0,118.0,1
+548430,Deep Rock Galactic,12,790130,ORE,0.696072,2018-05-01,2018,"['Action', 'Adventure', 'Indie']",0,59.0,27.0,0
+548430,Deep Rock Galactic,13,2330810,Alien Frontier,0.695938,2025-01-30,2025,"['Action', 'Adventure', 'Early Access']",0,,0.0,0
+548430,Deep Rock Galactic,14,452060,Caveblazers,0.693641,2017-05-24,2017,"['Action', 'Adventure', 'Indie']",3245,86.0,3259.0,78
+548430,Deep Rock Galactic,15,63800,Delve Deeper,0.693595,2010-09-24,2010,"['Adventure', 'Indie', 'RPG', 'Strategy']",344,59.0,344.0,1
+548430,Deep Rock Galactic,16,3043020,Deep Down,0.692648,2024-07-17,2024,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+548430,Deep Rock Galactic,17,1493950,Subterene,0.68804,2021-01-07,2021,['Action'],0,,0.0,0
+548430,Deep Rock Galactic,18,2392740,Cave Digger 2,0.685851,2023-11-15,2023,"['Action', 'Adventure', 'Casual']",0,54.0,11.0,0
+548430,Deep Rock Galactic,19,2213980,Caverns of Mars: Recharged,0.685421,2023-03-08,2023,['Action'],0,92.0,26.0,1
+548430,Deep Rock Galactic,20,1964690,Dwarfenstein,0.683857,2022-05-13,2022,['Action'],0,,0.0,0
+548430,Deep Rock Galactic,21,1029970,Dig Deep,0.682577,2019-03-08,2019,"['Action', 'Casual', 'Indie']",0,91.0,71.0,0
+548430,Deep Rock Galactic,22,1323060,Wild Planet,0.681179,2024-10-23,2024,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",0,76.0,25.0,2
+548430,Deep Rock Galactic,23,730710,Space Viking Raiders,0.681152,2019-01-14,2019,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+548430,Deep Rock Galactic,24,802530,Space Raiders RPG,0.680253,2018-10-11,2018,"['Adventure', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+548430,Deep Rock Galactic,25,1262450,Blaster Squad,0.67897,2020-04-23,2020,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",0,,0.0,0
+548430,Deep Rock Galactic,26,340810,Deepworld,0.675933,2015-04-22,2015,"['Action', 'Adventure', 'Casual', 'Free To Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",0,60.0,728.0,1
+548430,Deep Rock Galactic,27,1935240,Planet Conqueror,0.673611,2022-04-08,2022,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,28,2796370,Brigands,0.672366,2024-12-05,2024,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+548430,Deep Rock Galactic,29,1259130,Rover Wars,0.671162,2020-04-17,2020,"['Action', 'Casual', 'Indie', 'Strategy']",0,79.0,24.0,0
+548430,Deep Rock Galactic,30,1500760,Scraplers,0.669093,2021-02-19,2021,"['Indie', 'RPG', 'Simulation', 'Early Access']",0,,0.0,0
+548430,Deep Rock Galactic,31,2159650,Drift: Space Survival,0.668165,2023-05-12,2023,"['Adventure', 'Indie', 'Simulation', 'Early Access']",0,68.0,64.0,2
+548430,Deep Rock Galactic,32,3033950,Slalomancers,0.666151,2024-10-02,2024,"['Action', 'Casual', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,33,577410,The Pit: Infinity,0.665898,2019-11-12,2019,"['Action', 'Indie']",231,64.0,231.0,0
+548430,Deep Rock Galactic,34,767970,Inhumanus,0.665678,2018-04-27,2018,"['Action', 'Adventure']",0,68.0,22.0,0
+548430,Deep Rock Galactic,35,3323960,Hyper Tunnel,0.665411,2024-12-11,2024,"['Action', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,36,2924110,Tunnel Assault,0.665068,2024-11-07,2024,"['Action', 'Casual', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,37,653870,Cavern Crumblers,0.664826,2017-08-10,2017,"['Action', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,38,1112120,Space Viking Raiders VR,0.66438,2019-10-04,2019,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",0,,0.0,0
+548430,Deep Rock Galactic,39,701040,CometStriker DX,0.664005,2018-06-08,2018,"['Action', 'Indie']",0,97.0,47.0,0
+548430,Deep Rock Galactic,40,1183530,Go Fight Fantastic,0.66378,2024-03-26,2024,"['Action', 'Adventure', 'Indie', 'RPG']",0,69.0,66.0,0
+548430,Deep Rock Galactic,41,252110,Lovers in a Dangerous Spacetime,0.663145,2015-09-09,2015,"['Action', 'Indie', 'Simulation']",3161,92.0,3162.0,47
+548430,Deep Rock Galactic,42,1549970,Aliens: Fireteam Elite,0.663126,2021-08-23,2021,"['Action', 'RPG']",18884,81.0,18965.0,231
+548430,Deep Rock Galactic,43,1218500,Galactic Mining Corp,0.662431,2021-05-18,2021,"['Action', 'Adventure', 'Indie', 'Simulation']",840,84.0,840.0,1
+548430,Deep Rock Galactic,44,3003660,Galactic Striker,0.661528,2024-07-05,2024,"['Action', 'Adventure', 'Casual', 'Free To Play']",0,,0.0,0
+548430,Deep Rock Galactic,45,3059490,Mission Andromeda,0.660645,2024-07-26,2024,"['Action', 'Indie']",0,,0.0,0
+548430,Deep Rock Galactic,46,1782190,Farlife,0.660471,2021-12-20,2021,"['Action', 'Adventure', 'RPG', 'Early Access']",0,,0.0,0
+548430,Deep Rock Galactic,47,2420230,Multiplayer Military,0.660418,2023-05-18,2023,['Action'],0,,0.0,0
+548430,Deep Rock Galactic,48,386650,Dungeons and Robots,0.659805,2024-01-23,2024,"['Action', 'Indie', 'RPG']",132,40.0,132.0,0
+548430,Deep Rock Galactic,49,464900,Pitfall Planet,0.659332,2016-05-02,2016,"['Adventure', 'Casual', 'Indie']",0,98.0,86.0,0
+548430,Deep Rock Galactic,50,2435230,Space Mutants,0.659097,2023-06-01,2023,['Action'],0,,0.0,0
+427520,Factorio,1,2220850,Factor Y,0.775576,2024-08-27,2024,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,77.0,22.0,1
+427520,Factorio,2,2449430,Incremental Factory,0.756383,2024-01-29,2024,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",183,72.0,183.0,16
+427520,Factorio,3,1626530,Facteroids,0.709394,2023-06-23,2023,"['Indie', 'Simulation', 'Strategy']",0,79.0,73.0,1
+427520,Factorio,4,963590,Cubic Factory,0.708828,2018-11-23,2018,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,5,2219580,Spaceflight Factory : Prologue,0.698007,2023-01-20,2023,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,87.0,39.0,0
+427520,Factorio,6,1425300,Factorization,0.682378,2020-10-06,2020,"['Indie', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,7,2564440,Mechanization,0.674499,2023-10-05,2023,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,8,1501610,Nova Lands,0.673334,2023-06-22,2023,"['Adventure', 'Indie', 'Simulation', 'Strategy']",2160,91.0,2171.0,72
+427520,Factorio,9,526870,Satisfactory,0.669346,2024-09-10,2024,"['Adventure', 'Indie', 'Simulation', 'Strategy']",189253,97.0,189516.0,15097
+427520,Factorio,10,1958750,Hexfactory,0.668574,2022-05-13,2022,"['Indie', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,11,983870,FOUNDRY,0.66657,2024-05-02,2024,"['Indie', 'Simulation', 'Strategy', 'Early Access']",1786,81.0,1787.0,97
+427520,Factorio,12,2854710,Chocolate Factory,0.659945,2024-06-18,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",108,55.0,110.0,0
+427520,Factorio,13,3169270,The Factory Must Grow,0.659202,2024-09-16,2024,"['Indie', 'Simulation', 'Strategy']",0,,0.0,0
+427520,Factorio,14,707860,The Power Factory,0.658328,2017-09-29,2017,"['Indie', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,15,1574000,Industry Idle,0.656236,2024-09-13,2024,"['Indie', 'Simulation', 'Strategy', 'Free To Play']",0,77.0,1343.0,0
+427520,Factorio,16,2940220,Idle Grid,0.654723,2025-02-05,2025,"['Action', 'Casual', 'Indie', 'Simulation', 'Strategy', 'Free To Play']",0,38.0,21.0,19
+427520,Factorio,17,1755300,Smart Factory Tycoon,0.6531,2022-03-26,2022,"['Casual', 'Indie', 'Simulation', 'Strategy']",137,66.0,137.0,1
+427520,Factorio,18,1450900,Desynced: Autonomous Colony Simulator,0.650831,2023-08-15,2023,"['Simulation', 'Strategy', 'Early Access']",1221,82.0,1221.0,76
+427520,Factorio,19,2337000,Shuttle World,0.645818,2023-03-23,2023,"['RPG', 'Simulation', 'Early Access']",0,,0.0,0
+427520,Factorio,20,1796720,Industrial Annihilation,0.640017,2024-12-10,2024,"['Strategy', 'Early Access']",153,49.0,153.0,3
+427520,Factorio,21,2691010,Assembly Line 2 Mobile Version,0.639769,2023-11-30,2023,"['Indie', 'Simulation', 'Strategy']",0,86.0,29.0,1
+427520,Factorio,22,2313330,TerraTech Worlds,0.639583,2024-03-22,2024,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']",1549,62.0,1557.0,69
+427520,Factorio,23,1760340,ReFactory,0.639103,2022-04-08,2022,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,77.0,80.0,2
+427520,Factorio,24,1127400,Mindustry,0.636006,2019-09-26,2019,['Strategy'],18557,95.0,18570.0,742
+427520,Factorio,25,2232380,Glory to the Robots!,0.63474,2022-12-16,2022,"['Indie', 'Simulation', 'Strategy']",0,81.0,11.0,0
+427520,Factorio,26,2481220,Automate Defend Repeat,0.633903,2024-04-25,2024,"['Casual', 'Indie', 'Simulation', 'Early Access']",0,,0.0,0
+427520,Factorio,27,1607310,汽车帝国,0.633159,2021-08-13,2021,"['Indie', 'Simulation', 'Strategy', 'Early Access']",0,46.0,79.0,1
+427520,Factorio,28,2423620,Space industrial empire,0.633143,2024-05-24,2024,"['Casual', 'Indie', 'Strategy']",960,87.0,961.0,95
+427520,Factorio,29,1384030,Boppio,0.632911,2021-12-22,2021,"['Casual', 'Indie', 'Simulation']",0,52.0,87.0,0
+427520,Factorio,30,650350,Machine World 2,0.632081,2017-07-28,2017,"['Indie', 'Simulation', 'Early Access']",185,50.0,185.0,0
+427520,Factorio,31,1776500,Industry Mania,0.631069,2021-11-04,2021,"['Casual', 'Simulation']",0,,0.0,0
+427520,Factorio,32,1457320,Techtonica,0.630586,2024-11-07,2024,"['Indie', 'Simulation', 'Strategy']",2535,68.0,2537.0,129
+427520,Factorio,33,2659900,Sixty Four,0.629866,2024-03-04,2024,"['Casual', 'Indie', 'Simulation', 'Strategy']",1417,74.0,1418.0,29
+427520,Factorio,34,1390690,MachineryWorld,0.629699,2021-02-12,2021,"['Action', 'Indie', 'RPG', 'Early Access']",0,,0.0,0
+427520,Factorio,35,2082350,Vectorio,0.628316,2023-08-18,2023,"['Action', 'Adventure', 'Indie', 'Strategy', 'Early Access']",318,82.0,321.0,2
+427520,Factorio,36,1259130,Rover Wars,0.627622,2020-04-17,2020,"['Action', 'Casual', 'Indie', 'Strategy']",0,79.0,24.0,0
+427520,Factorio,37,2791880,Assembly Line 2,0.627416,2024-08-01,2024,"['Simulation', 'Strategy']",0,71.0,38.0,10
+427520,Factorio,38,223410,Perpetuum,0.627374,2014-10-17,2014,"['Indie', 'Massively Multiplayer', 'RPG']",595,72.0,787.0,8
+427520,Factorio,39,1307550,Craftopia,0.627143,2020-09-04,2020,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",17684,78.0,16984.0,142
+427520,Factorio,40,745010,Mechanic Miner,0.62712,2020-02-20,2020,"['Action', 'Adventure', 'Indie', 'RPG']",170,52.0,170.0,1
+427520,Factorio,41,2925410,Chocolate Factory: Prologue,0.626271,2024-05-22,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Free To Play']",0,76.0,178.0,0
+427520,Factorio,42,677480,Outpost Zero,0.625139,2019-07-25,2019,"['Action', 'Adventure', 'Indie', 'Simulation']",568,52.0,568.0,1
+427520,Factorio,43,1383150,Final Factory,0.623089,2024-04-09,2024,"['Simulation', 'Strategy', 'Early Access']",239,80.0,239.0,5
+427520,Factorio,44,2190170,Nusantara,0.622979,2024-12-18,2024,"['Indie', 'Strategy']",0,,0.0,0
+427520,Factorio,45,2416770,绛河之上 Under Supernova,0.622782,2023-05-31,2023,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",0,,0.0,0
+427520,Factorio,46,788630,Gaia Beyond,0.622634,2020-08-20,2020,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",220,73.0,220.0,3
+427520,Factorio,47,375910,Anno 2205™,0.622616,2015-11-02,2015,"['Simulation', 'Strategy']",5693,69.0,5701.0,201
+427520,Factorio,48,427940,Industries of Titan,0.621128,2023-01-31,2023,"['Action', 'Indie', 'Simulation', 'Strategy']",1483,63.0,1489.0,11
+427520,Factorio,49,347600,Total Miner,0.620741,2017-12-23,2017,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",667,78.0,667.0,9
+427520,Factorio,50,2825870,Doodle Factory,0.620417,2024-05-01,2024,"['Casual', 'Indie', 'Simulation', 'Strategy']",0,100.0,19.0,1
+739630,Phasmophobia,1,2619640,Evil Hunt - Evil never sleeps,0.811545,2024-07-01,2024,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+739630,Phasmophobia,2,2645490,Ghostbane,0.804601,2024-10-06,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",115,65.0,115.0,2
+739630,Phasmophobia,3,2201070,Phylakterion,0.79623,2023-10-31,2023,"['Action', 'Adventure', 'Indie']",0,66.0,33.0,0
+739630,Phasmophobia,4,2204850,Spooky Men,0.772427,2023-05-09,2023,"['Action', 'Casual', 'Simulation', 'Early Access']",0,70.0,24.0,0
+739630,Phasmophobia,5,2638910,Phantom Patrol,0.77177,2024-10-27,2024,"['Casual', 'Indie']",0,,0.0,0
+739630,Phasmophobia,6,1310510,Handy Harry's Haunted House Services,0.764729,2020-07-31,2020,"['Indie', 'Early Access']",533,91.0,533.0,1
+739630,Phasmophobia,7,2962750,Ghostbane: Prologue,0.764675,2024-08-02,2024,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy', 'Free To Play']",0,53.0,301.0,0
+739630,Phasmophobia,8,1929610,Demonologist,0.760172,2023-09-25,2023,"['Action', 'Adventure', 'Indie']",16526,86.0,16631.0,626
+739630,Phasmophobia,9,2764750,The Other Side,0.758042,2025-03-07,2025,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy', 'Early Access']",0,,0.0,16
+739630,Phasmophobia,10,2400880,Haunted Investigation,0.754525,2023-08-18,2023,"['Action', 'Adventure', 'Indie']",187,83.0,187.0,0
+739630,Phasmophobia,11,467660,Paranormal Activity: The Lost Soul,0.753381,2017-08-15,2017,"['Adventure', 'RPG']",684,72.0,686.0,2
+739630,Phasmophobia,12,1502010,Friki,0.752536,2022-02-22,2022,"['Action', 'Adventure', 'Indie', 'Early Access']",0,62.0,56.0,0
+739630,Phasmophobia,13,2634420,Haunted Things,0.745454,2023-10-22,2023,"['Action', 'Adventure', 'Indie']",0,,0.0,0
+739630,Phasmophobia,14,3194340,We Are Alive,0.744159,2024-11-29,2024,['Indie'],0,,0.0,0
+739630,Phasmophobia,15,1320990,Horror Adventure VR,0.741551,2020-07-03,2020,"['Adventure', 'Indie']",0,50.0,18.0,0
+739630,Phasmophobia,16,280850,Dollhouse,0.739278,2019-05-24,2019,"['Action', 'Adventure', 'Indie']",131,51.0,131.0,0
+739630,Phasmophobia,17,2871370,World horror story,0.738427,2025-02-10,2025,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",0,,0.0,0
+739630,Phasmophobia,18,2823070,Ancraophobia,0.737717,2024-02-29,2024,"['Action', 'Indie', 'Strategy', 'Early Access']",0,,0.0,0
+739630,Phasmophobia,19,2356140,Malice,0.735957,2023-10-25,2023,['Indie'],0,,0.0,0
+739630,Phasmophobia,20,2541890,Abnormality,0.734115,2024-10-28,2024,"['Action', 'Indie', 'Early Access']",0,70.0,68.0,0
+739630,Phasmophobia,21,1374580,Dirge,0.734017,2024-02-01,2024,"['Indie', 'Free To Play']",0,62.0,291.0,7
+739630,Phasmophobia,22,1581010,Haunted House - The Murder,0.733188,2021-09-21,2021,"['Action', 'Adventure']",0,,0.0,0
+739630,Phasmophobia,23,1877460,Ghost,0.730708,2022-01-31,2022,"['Action', 'Adventure', 'Indie']",0,23.0,17.0,0
+739630,Phasmophobia,24,1751850,Ghost Terminator,0.730321,2022-09-20,2022,['Action'],0,,0.0,0
+739630,Phasmophobia,25,2240100,BumpUpGhostBuster,0.728741,2022-12-28,2022,"['Action', 'Free To Play']",0,,0.0,0
+739630,Phasmophobia,26,1978460,Death's Playground,0.728682,2023-10-01,2023,"['Action', 'Indie']",0,92.0,13.0,0
+739630,Phasmophobia,27,1171240,Reiko's Fragments,0.728588,2019-10-28,2019,"['Action', 'Indie', 'Early Access']",149,67.0,149.0,0
+739630,Phasmophobia,28,514240,ALONE?,0.727931,2016-10-10,2016,"['Action', 'Adventure', 'Indie', 'Simulation']",128,42.0,129.0,1
+739630,Phasmophobia,29,2800850,Project Legion,0.726706,2024-10-24,2024,"['Action', 'Adventure', 'Indie', 'Early Access']",0,30.0,13.0,1
+739630,Phasmophobia,30,3143700,The Yamamura Estate,0.724956,2024-08-22,2024,['Casual'],0,72.0,11.0,0
+739630,Phasmophobia,31,2627270,The Method of Hiding a Body,0.722108,2024-05-21,2024,"['Adventure', 'Indie']",0,94.0,51.0,1
+739630,Phasmophobia,32,2356460,Untitled Ghost Game,0.721826,2023-09-12,2023,"['Action', 'Casual', 'Indie', 'Free To Play']",0,91.0,445.0,0
+739630,Phasmophobia,33,1778030,Hunt Together,0.721825,2024-02-08,2024,['Action'],0,72.0,18.0,1
+739630,Phasmophobia,34,2561680,Backrooms: The Phobolore,0.721502,2024-02-10,2024,"['Adventure', 'Indie', 'Early Access']",0,65.0,35.0,0
+739630,Phasmophobia,35,811640,Divided: Soul Theft,0.720242,2018-03-14,2018,"['Violent', 'Indie']",0,,0.0,0
+739630,Phasmophobia,36,2669540,Necrophoresis,0.719697,2024-04-30,2024,"['Action', 'Indie', 'Early Access']",0,,0.0,0
+739630,Phasmophobia,37,3469380,Don't Let Me Rot,0.719263,2025-02-28,2025,"['Action', 'Indie', 'RPG', 'Simulation']",0,,0.0,0
+739630,Phasmophobia,38,2138860,Escape from Pine Mountain,0.718514,2024-12-03,2024,"['Action', 'Indie', 'Massively Multiplayer']",0,,0.0,0
+739630,Phasmophobia,39,3057350,PhobLack,0.715642,2024-08-09,2024,"['Action', 'Adventure', 'Indie']",0,91.0,24.0,1
+739630,Phasmophobia,40,529500,ALONE? - VR,0.715555,2016-10-07,2016,"['Action', 'Adventure', 'Casual', 'Indie']",0,62.0,35.0,0
+739630,Phasmophobia,41,3229140,Echoes Of The House,0.713708,2024-11-15,2024,"['Action', 'Adventure', 'Indie']",107,84.0,106.0,0
+739630,Phasmophobia,42,1192410,Room Escape '1053',0.713475,2019-12-12,2019,"['Action', 'Adventure', 'Casual']",0,,0.0,0
+739630,Phasmophobia,43,3270270,Haunted Halloween,0.711685,2024-10-30,2024,"['Adventure', 'Casual', 'Indie']",0,30.0,13.0,0
+739630,Phasmophobia,44,915810,Midnight Ghost Hunt,0.710777,2024-03-21,2024,"['Action', 'Indie']",5288,80.0,5290.0,19
+739630,Phasmophobia,45,2017980,Haunted Mansion,0.709182,2022-06-17,2022,['Indie'],0,,0.0,0
+739630,Phasmophobia,46,1742480,Eternal night,0.708699,2021-10-21,2021,"['Adventure', 'Indie', 'RPG']",0,,0.0,0
+739630,Phasmophobia,47,1999850,Possessions,0.708204,2023-10-13,2023,"['Action', 'Free To Play', 'Early Access']",0,100.0,14.0,1
+739630,Phasmophobia,48,2395310,Presences: Dark Awakening,0.707044,2023-07-07,2023,"['Adventure', 'Casual', 'Indie']",0,80.0,31.0,0
+739630,Phasmophobia,49,3454810,Poltergeist Prodigy,0.706296,2025-03-06,2025,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']",0,,0.0,0
+739630,Phasmophobia,50,3217650,Don't Wake Up The Dead,0.705124,2024-10-18,2024,"['Action', 'Casual', 'Indie']",0,,0.0,0

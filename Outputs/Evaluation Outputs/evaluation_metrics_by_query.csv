@@ -1,0 +1,41 @@
+model,query_game,precision_at_10,ndcg_at_10
+Graph,Counter-Strike 2,0.9,0.9894557584797858
+Graph,Deep Rock Galactic,0.7,0.9374836267524946
+Graph,Factorio,1.0,0.8394191747026991
+Graph,Grand Theft Auto V Legacy,1.0,0.9905701067474235
+Graph,Hades,1.0,0.9672992363067292
+Graph,Hollow Knight,1.0,1.0
+Graph,Phasmophobia,1.0,0.9819729381369342
+Graph,Sid Meier’s Civilization® VI,1.0,1.0
+Graph,Stardew Valley,1.0,0.9868957362176296
+Graph,The Witcher 3: Wild Hunt,1.0,0.9452902205982652
+Hybrid,Counter-Strike 2,1.0,0.9154458786520725
+Hybrid,Deep Rock Galactic,0.9,0.8074724071670154
+Hybrid,Factorio,1.0,0.9911365418282455
+Hybrid,Grand Theft Auto V Legacy,1.0,0.9450840935574808
+Hybrid,Hades,1.0,0.93459296787571
+Hybrid,Hollow Knight,1.0,1.0
+Hybrid,Phasmophobia,1.0,0.9856152297908297
+Hybrid,Sid Meier’s Civilization® VI,1.0,1.0
+Hybrid,Stardew Valley,1.0,1.0
+Hybrid,The Witcher 3: Wild Hunt,1.0,0.8769345679718724
+Metadata,Counter-Strike 2,0.9,0.8164484553024287
+Metadata,Deep Rock Galactic,0.7,0.7585288587848464
+Metadata,Factorio,1.0,0.85399631068441
+Metadata,Grand Theft Auto V Legacy,0.9,0.9563582727138099
+Metadata,Hades,1.0,0.9317456211389828
+Metadata,Hollow Knight,1.0,1.0
+Metadata,Phasmophobia,1.0,1.0
+Metadata,Sid Meier’s Civilization® VI,1.0,0.9850162622336459
+Metadata,Stardew Valley,1.0,1.0
+Metadata,The Witcher 3: Wild Hunt,1.0,0.993216879066224
+Semantic,Counter-Strike 2,0.6,0.8095771475088982
+Semantic,Deep Rock Galactic,0.8,0.7556224524286589
+Semantic,Factorio,1.0,0.8834792606956499
+Semantic,Grand Theft Auto V Legacy,0.9,0.9841177870255821
+Semantic,Hades,1.0,1.0
+Semantic,Hollow Knight,0.5,0.8893839657191064
+Semantic,Phasmophobia,1.0,0.9981666155888351
+Semantic,Sid Meier’s Civilization® VI,0.9,0.9059477702147245
+Semantic,Stardew Valley,0.9,0.7845122967164743
+Semantic,The Witcher 3: Wild Hunt,0.9,1.0

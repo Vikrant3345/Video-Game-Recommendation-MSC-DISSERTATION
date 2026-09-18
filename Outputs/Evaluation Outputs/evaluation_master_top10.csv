@@ -1,0 +1,401 @@
+query_appid,query_game,appid,recommended_game,rank,score,model
+730,Counter-Strike 2,240,Counter-Strike: Source,1,0.722679,Graph
+730,Counter-Strike 2,359550,Tom Clancy's Rainbow Six® Siege,2,0.685079,Graph
+730,Counter-Strike 2,222880,Insurgency,3,0.660345,Graph
+730,Counter-Strike 2,1218470,Lightphobe,4,0.634189,Graph
+730,Counter-Strike 2,677620,Splitgate,5,0.604624,Graph
+730,Counter-Strike 2,440,Team Fortress 2,6,0.581265,Graph
+730,Counter-Strike 2,1333540,Tactical Suppression,7,0.551212,Graph
+730,Counter-Strike 2,551610,Virtual Army: Revolution,8,0.540062,Graph
+730,Counter-Strike 2,671610,Warfork,9,0.538987,Graph
+730,Counter-Strike 2,570,Dota 2,10,0.538929,Graph
+730,Counter-Strike 2,240,Counter-Strike: Source,1,0.0162876784769963,Hybrid
+730,Counter-Strike 2,677620,Splitgate,2,0.0127112232030264,Hybrid
+730,Counter-Strike 2,359550,Tom Clancy's Rainbow Six® Siege,3,0.0124217621569571,Hybrid
+730,Counter-Strike 2,440,Team Fortress 2,4,0.0124098124098124,Hybrid
+730,Counter-Strike 2,222880,Insurgency,5,0.0124098124098124,Hybrid
+730,Counter-Strike 2,783770,Ironsight,6,0.0121570667869738,Hybrid
+730,Counter-Strike 2,801550,VAIL VR,7,0.0117294520547945,Hybrid
+730,Counter-Strike 2,671610,Warfork,8,0.0109919066440805,Hybrid
+730,Counter-Strike 2,550650,Black Squad,9,0.0106993006993006,Hybrid
+730,Counter-Strike 2,1218470,Lightphobe,10,0.0102103960396039,Hybrid
+730,Counter-Strike 2,677620,Splitgate,1,0.756,Metadata
+730,Counter-Strike 2,240,Counter-Strike: Source,2,0.7415,Metadata
+730,Counter-Strike 2,440,Team Fortress 2,3,0.7088,Metadata
+730,Counter-Strike 2,801550,VAIL VR,4,0.6673,Metadata
+730,Counter-Strike 2,550650,Black Squad,5,0.6527,Metadata
+730,Counter-Strike 2,222880,Insurgency,6,0.6486,Metadata
+730,Counter-Strike 2,359550,Tom Clancy's Rainbow Six® Siege,7,0.6188,Metadata
+730,Counter-Strike 2,489940,BATTALION: Legacy,8,0.6187,Metadata
+730,Counter-Strike 2,2344740,e-act Catcher for Akpala,9,0.6098,Metadata
+730,Counter-Strike 2,1763510,X8,10,0.6084,Metadata
+730,Counter-Strike 2,240,Counter-Strike: Source,1,0.718965,Semantic
+730,Counter-Strike 2,666220,CS2D,2,0.717478,Semantic
+730,Counter-Strike 2,3262530,Source Code,3,0.660345,Semantic
+730,Counter-Strike 2,1549660,Skybox3D,4,0.626486,Semantic
+730,Counter-Strike 2,1213210,Command & Conquer™ Remastered Collection,5,0.618713,Semantic
+730,Counter-Strike 2,1962660,Call of Duty®: Modern Warfare® II,6,0.609849,Semantic
+730,Counter-Strike 2,2735020,Cyber Rush,7,0.608657,Semantic
+730,Counter-Strike 2,2504460,CSOL,8,0.596918,Semantic
+730,Counter-Strike 2,454350,Days of War: Definitive Edition,9,0.596511,Semantic
+730,Counter-Strike 2,2710800,Counter Attack,10,0.596497,Semantic
+548430,Deep Rock Galactic,1337520,Risk of Rain Returns,1,0.565801,Graph
+548430,Deep Rock Galactic,2051870,Shadow Survival,2,0.564193,Graph
+548430,Deep Rock Galactic,1383160,Endless Firepower,3,0.480153,Graph
+548430,Deep Rock Galactic,2531340,OASIS: Tokyo,4,0.475769,Graph
+548430,Deep Rock Galactic,1603460,Chromatic Labyrinth,5,0.474563,Graph
+548430,Deep Rock Galactic,2321470,Deep Rock Galactic: Survivor,6,0.473419,Graph
+548430,Deep Rock Galactic,2237070,Deathtide,7,0.468939,Graph
+548430,Deep Rock Galactic,2167390,Grotesque Realm,8,0.46062,Graph
+548430,Deep Rock Galactic,261640,Borderlands: The Pre-Sequel,9,0.45743,Graph
+548430,Deep Rock Galactic,2283880,Shoulders of Giants: Ultimate,10,0.454103,Graph
+548430,Deep Rock Galactic,1337520,Risk of Rain Returns,1,0.0131147540983606,Hybrid
+548430,Deep Rock Galactic,1558830,RIPOUT,2,0.0117147707979626,Hybrid
+548430,Deep Rock Galactic,2051870,Shadow Survival,3,0.0111574952561669,Hybrid
+548430,Deep Rock Galactic,2233700,Last Night in Zombie Village,4,0.0105118515973892,Hybrid
+548430,Deep Rock Galactic,1268750,Starship Troopers: Extermination,5,0.0105029838022165,Hybrid
+548430,Deep Rock Galactic,2283880,Shoulders of Giants: Ultimate,6,0.010311986863711,Hybrid
+548430,Deep Rock Galactic,2228220,Variant 22,7,0.0101532567049808,Hybrid
+548430,Deep Rock Galactic,235540,Warhammer: End Times - Vermintide,8,0.0095904095904095,Hybrid
+548430,Deep Rock Galactic,261640,Borderlands: The Pre-Sequel,9,0.009500805152979,Hybrid
+548430,Deep Rock Galactic,2321470,Deep Rock Galactic: Survivor,10,0.0093392945851962,Hybrid
+548430,Deep Rock Galactic,1337520,Risk of Rain Returns,1,0.714,Metadata
+548430,Deep Rock Galactic,1558830,RIPOUT,2,0.6656,Metadata
+548430,Deep Rock Galactic,2127300,Killfest,3,0.6325,Metadata
+548430,Deep Rock Galactic,3045130,The Last Ramparts,4,0.6325,Metadata
+548430,Deep Rock Galactic,3469140,Backrooms: The Yellow Dream,5,0.6325,Metadata
+548430,Deep Rock Galactic,2213390,Death Swap: End As One,6,0.6285,Metadata
+548430,Deep Rock Galactic,321270,UNLOVED,7,0.6283,Metadata
+548430,Deep Rock Galactic,690810,Killing Floor: Incursion,8,0.6209,Metadata
+548430,Deep Rock Galactic,1268750,Starship Troopers: Extermination,9,0.6126,Metadata
+548430,Deep Rock Galactic,2933080,Crime Boss: Rockay City,10,0.6121,Metadata
+548430,Deep Rock Galactic,2321470,Deep Rock Galactic: Survivor,1,0.83651,Semantic
+548430,Deep Rock Galactic,507120,The Superfluous,2,0.737745,Semantic
+548430,Deep Rock Galactic,976890,Hidden Deep,3,0.734981,Semantic
+548430,Deep Rock Galactic,455100,Gerty,4,0.731947,Semantic
+548430,Deep Rock Galactic,1646050,Wilford,5,0.717953,Semantic
+548430,Deep Rock Galactic,3517950,Void Raiders,6,0.706004,Semantic
+548430,Deep Rock Galactic,2143030,Cave Crawlers,7,0.704689,Semantic
+548430,Deep Rock Galactic,1523510,Cave Digger 2 Dig Harder,8,0.70304,Semantic
+548430,Deep Rock Galactic,2325720,Cyber Mission,9,0.702968,Semantic
+548430,Deep Rock Galactic,1531300,Galaxy X,10,0.702918,Semantic
+427520,Factorio,732050,Voxel Tycoon,1,0.673311,Graph
+427520,Factorio,898720,Kubifaktorium,2,0.65148,Graph
+427520,Factorio,1355090,RAILGRADE,3,0.648426,Graph
+427520,Factorio,860890,Factory Town,4,0.647868,Graph
+427520,Factorio,526870,Satisfactory,5,0.647809,Graph
+427520,Factorio,1760340,ReFactory,6,0.643761,Graph
+427520,Factorio,1536610,OpenTTD,7,0.641539,Graph
+427520,Factorio,983870,FOUNDRY,8,0.6383,Graph
+427520,Factorio,2854710,Chocolate Factory,9,0.632991,Graph
+427520,Factorio,1457320,Techtonica,10,0.630914,Graph
+427520,Factorio,526870,Satisfactory,1,0.0154016032276901,Hybrid
+427520,Factorio,983870,FOUNDRY,2,0.0147598604102332,Hybrid
+427520,Factorio,1760340,ReFactory,3,0.014624090768669,Hybrid
+427520,Factorio,1457320,Techtonica,4,0.0143398116609897,Hybrid
+427520,Factorio,860890,Factory Town,5,0.0120471014492753,Hybrid
+427520,Factorio,1140130,Survival Vacancy,6,0.0120368291039748,Hybrid
+427520,Factorio,1127400,Mindustry,7,0.0119047619047619,Hybrid
+427520,Factorio,3169270,The Factory Must Grow,8,0.0118600784046482,Hybrid
+427520,Factorio,1450900,Desynced: Autonomous Colony Simulator,9,0.0115641025641025,Hybrid
+427520,Factorio,1355090,RAILGRADE,10,0.0115440115440115,Hybrid
+427520,Factorio,1140130,Survival Vacancy,1,0.7362,Metadata
+427520,Factorio,1457320,Techtonica,2,0.7233,Metadata
+427520,Factorio,526870,Satisfactory,3,0.7145,Metadata
+427520,Factorio,911430,Good Company,4,0.6985,Metadata
+427520,Factorio,1760340,ReFactory,5,0.6931,Metadata
+427520,Factorio,983870,FOUNDRY,6,0.6863,Metadata
+427520,Factorio,1060230,Sapiens,7,0.6844,Metadata
+427520,Factorio,1318690,shapez,8,0.6777,Metadata
+427520,Factorio,860890,Factory Town,9,0.6741,Metadata
+427520,Factorio,225420,Cities in Motion 2,10,0.67,Metadata
+427520,Factorio,2220850,Factor Y,1,0.775576,Semantic
+427520,Factorio,2449430,Incremental Factory,2,0.756383,Semantic
+427520,Factorio,1626530,Facteroids,3,0.709394,Semantic
+427520,Factorio,963590,Cubic Factory,4,0.708828,Semantic
+427520,Factorio,2219580,Spaceflight Factory : Prologue,5,0.698007,Semantic
+427520,Factorio,1425300,Factorization,6,0.682378,Semantic
+427520,Factorio,2564440,Mechanization,7,0.674499,Semantic
+427520,Factorio,1501610,Nova Lands,8,0.673334,Semantic
+427520,Factorio,526870,Satisfactory,9,0.669346,Semantic
+427520,Factorio,1958750,Hexfactory,10,0.668574,Semantic
+271590,Grand Theft Auto V Legacy,3240220,Grand Theft Auto V Enhanced,1,0.894739,Graph
+271590,Grand Theft Auto V Legacy,12210,Grand Theft Auto IV: The Complete Edition,2,0.703474,Graph
+271590,Grand Theft Auto V Legacy,225540,Just Cause™ 3,3,0.632008,Graph
+271590,Grand Theft Auto V Legacy,55230,Saints Row: The Third,4,0.582773,Graph
+271590,Grand Theft Auto V Legacy,307690,Sleeping Dogs: Definitive Edition,5,0.53993,Graph
+271590,Grand Theft Auto V Legacy,360430,Mafia III: Definitive Edition,6,0.530312,Graph
+271590,Grand Theft Auto V Legacy,1174180,Red Dead Redemption 2,7,0.528593,Graph
+271590,Grand Theft Auto V Legacy,301910,Saints Row: Gat out of Hell,8,0.521435,Graph
+271590,Grand Theft Auto V Legacy,1030840,Mafia: Definitive Edition,9,0.51634,Graph
+271590,Grand Theft Auto V Legacy,447040,Watch_Dogs® 2,10,0.515457,Graph
+271590,Grand Theft Auto V Legacy,3240220,Grand Theft Auto V Enhanced,1,0.0163934426229508,Hybrid
+271590,Grand Theft Auto V Legacy,1174180,Red Dead Redemption 2,2,0.0142061480557678,Hybrid
+271590,Grand Theft Auto V Legacy,1546990,Grand Theft Auto: Vice City – The Definitive Edition,3,0.0131996658312447,Hybrid
+271590,Grand Theft Auto V Legacy,12210,Grand Theft Auto IV: The Complete Edition,4,0.0129032258064516,Hybrid
+271590,Grand Theft Auto V Legacy,225540,Just Cause™ 3,5,0.0125030525030525,Hybrid
+271590,Grand Theft Auto V Legacy,55230,Saints Row: The Third,6,0.0121323529411764,Hybrid
+271590,Grand Theft Auto V Legacy,447040,Watch_Dogs® 2,7,0.0119642857142857,Hybrid
+271590,Grand Theft Auto V Legacy,360430,Mafia III: Definitive Edition,8,0.0118577075098814,Hybrid
+271590,Grand Theft Auto V Legacy,301910,Saints Row: Gat out of Hell,9,0.0113618049959709,Hybrid
+271590,Grand Theft Auto V Legacy,1030840,Mafia: Definitive Edition,10,0.0110602593440122,Hybrid
+271590,Grand Theft Auto V Legacy,3240220,Grand Theft Auto V Enhanced,1,0.8316,Metadata
+271590,Grand Theft Auto V Legacy,12210,Grand Theft Auto IV: The Complete Edition,2,0.7198,Metadata
+271590,Grand Theft Auto V Legacy,1174180,Red Dead Redemption 2,3,0.6962,Metadata
+271590,Grand Theft Auto V Legacy,447040,Watch_Dogs® 2,4,0.6846,Metadata
+271590,Grand Theft Auto V Legacy,225540,Just Cause™ 3,5,0.6671,Metadata
+271590,Grand Theft Auto V Legacy,742420,Saints Row,6,0.6373,Metadata
+271590,Grand Theft Auto V Legacy,2176790,Furry Arena [18+],7,0.6325,Metadata
+271590,Grand Theft Auto V Legacy,55230,Saints Row: The Third,8,0.6298,Metadata
+271590,Grand Theft Auto V Legacy,360430,Mafia III: Definitive Edition,9,0.6227,Metadata
+271590,Grand Theft Auto V Legacy,259080,Just Cause 2: Multiplayer Mod,10,0.6154,Metadata
+271590,Grand Theft Auto V Legacy,3240220,Grand Theft Auto V Enhanced,1,0.815636,Semantic
+271590,Grand Theft Auto V Legacy,1546970,Grand Theft Auto III – The Definitive Edition,2,0.729129,Semantic
+271590,Grand Theft Auto V Legacy,1546990,Grand Theft Auto: Vice City – The Definitive Edition,3,0.728611,Semantic
+271590,Grand Theft Auto V Legacy,1423980,Streatham Hill Stories,4,0.644074,Semantic
+271590,Grand Theft Auto V Legacy,1324630,Drive-By Cop,5,0.622144,Semantic
+271590,Grand Theft Auto V Legacy,1547000,Grand Theft Auto: San Andreas – The Definitive Edition,6,0.617798,Semantic
+271590,Grand Theft Auto V Legacy,2495560,Crime Pays,7,0.604325,Semantic
+271590,Grand Theft Auto V Legacy,1521580,Perfect Heist 2,8,0.604159,Semantic
+271590,Grand Theft Auto V Legacy,777040,Criminal Bundle,9,0.60304,Semantic
+271590,Grand Theft Auto V Legacy,2305740,Miami Horizon 2077,10,0.601294,Semantic
+1145360,Hades,1145350,Hades II,1,0.867237,Graph
+1145360,Hades,1763250,SWORN,2,0.764345,Graph
+1145360,Hades,2126370,Wraithbinder,3,0.740431,Graph
+1145360,Hades,2877790,Rogue Girl,4,0.705361,Graph
+1145360,Hades,2003050,Perseus: Titan Slayer,5,0.653503,Graph
+1145360,Hades,1144910,Space Gladiators,6,0.645042,Graph
+1145360,Hades,524640,Asura: Vengeance Edition,7,0.63359,Graph
+1145360,Hades,1040420,Dreamscaper,8,0.627042,Graph
+1145360,Hades,1840790,Metal Mutation,9,0.616026,Graph
+1145360,Hades,1037130,Dandy Ace,10,0.6064,Graph
+1145360,Hades,1145350,Hades II,1,0.0163934426229508,Hybrid
+1145360,Hades,2877790,Rogue Girl,2,0.0127016129032258,Hybrid
+1145360,Hades,2003050,Perseus: Titan Slayer,3,0.0125030525030525,Hybrid
+1145360,Hades,1763250,SWORN,4,0.0122487143525011,Hybrid
+1145360,Hades,1040420,Dreamscaper,5,0.0121323529411764,Hybrid
+1145360,Hades,1144910,Space Gladiators,6,0.0121212121212121,Hybrid
+1145360,Hades,2126370,Wraithbinder,7,0.0115440115440115,Hybrid
+1145360,Hades,506870,Unexplored,8,0.0114170040485829,Hybrid
+1145360,Hades,524640,Asura: Vengeance Edition,9,0.0112333071484681,Hybrid
+1145360,Hades,1037130,Dandy Ace,10,0.0111196911196911,Hybrid
+1145360,Hades,1145350,Hades II,1,0.8747,Metadata
+1145360,Hades,2877790,Rogue Girl,2,0.8444,Metadata
+1145360,Hades,2003050,Perseus: Titan Slayer,3,0.8193,Metadata
+1145360,Hades,1040420,Dreamscaper,4,0.7817,Metadata
+1145360,Hades,506870,Unexplored,5,0.7634,Metadata
+1145360,Hades,1144910,Space Gladiators,6,0.7562,Metadata
+1145360,Hades,1954010,Escape from Deathmark Dungeon,7,0.7534,Metadata
+1145360,Hades,530930,Soulblight,8,0.7497,Metadata
+1145360,Hades,1763250,SWORN,9,0.7436,Metadata
+1145360,Hades,986040,The Unliving,10,0.7382,Metadata
+1145360,Hades,1145350,Hades II,1,0.792749,Semantic
+1145360,Hades,2761710,Skulls of Olympus,2,0.792432,Semantic
+1145360,Hades,2441080,Godsvivors,3,0.792388,Semantic
+1145360,Hades,1195340,Hermes: Rescue Mission,4,0.75213,Semantic
+1145360,Hades,2053890,冥界崛起,5,0.749023,Semantic
+1145360,Hades,788100,Neon Abyss,6,0.729964,Semantic
+1145360,Hades,520300,Underworld Dungeon,7,0.718604,Semantic
+1145360,Hades,2452650,Hell Throne,8,0.69601,Semantic
+1145360,Hades,2364790,Daedalus,9,0.695626,Semantic
+1145360,Hades,295910,Olympia Rising,10,0.694445,Semantic
+367520,Hollow Knight,814680,Unbound: Worlds Apart,1,0.837148,Graph
+367520,Hollow Knight,1891740,Lost Wish: In the desperate world,2,0.792108,Graph
+367520,Hollow Knight,790360,WarriOrb,3,0.744653,Graph
+367520,Hollow Knight,668550,8Doors: Arum's Afterlife Adventure,4,0.737277,Graph
+367520,Hollow Knight,1193760,WarriOrb: Prologue,5,0.726222,Graph
+367520,Hollow Knight,356650,Death's Gambit: Afterlife,6,0.687007,Graph
+367520,Hollow Knight,597860,Nightmare Boy,7,0.684628,Graph
+367520,Hollow Knight,727510,Void Memory,8,0.678724,Graph
+367520,Hollow Knight,871210,Lamp Chronicle,9,0.676978,Graph
+367520,Hollow Knight,1154680,The Guise,10,0.674931,Graph
+367520,Hollow Knight,814680,Unbound: Worlds Apart,1,0.0130089899524061,Hybrid
+367520,Hollow Knight,1891740,Lost Wish: In the desperate world,2,0.0130089899524061,Hybrid
+367520,Hollow Knight,668550,8Doors: Arum's Afterlife Adventure,3,0.0125992063492063,Hybrid
+367520,Hollow Knight,790360,WarriOrb,4,0.0124098124098124,Hybrid
+367520,Hollow Knight,597860,Nightmare Boy,5,0.0121239954075774,Hybrid
+367520,Hollow Knight,1154680,The Guise,6,0.0119642857142857,Hybrid
+367520,Hollow Knight,1193760,WarriOrb: Prologue,7,0.0117094017094017,Hybrid
+367520,Hollow Knight,727510,Void Memory,8,0.0115966386554621,Hybrid
+367520,Hollow Knight,2199330,Aestik,9,0.0115161557580778,Hybrid
+367520,Hollow Knight,356650,Death's Gambit: Afterlife,10,0.0114660114660114,Hybrid
+367520,Hollow Knight,1891740,Lost Wish: In the desperate world,1,0.8998,Metadata
+367520,Hollow Knight,814680,Unbound: Worlds Apart,2,0.8987,Metadata
+367520,Hollow Knight,668550,8Doors: Arum's Afterlife Adventure,3,0.8775,Metadata
+367520,Hollow Knight,1154680,The Guise,4,0.8463,Metadata
+367520,Hollow Knight,597860,Nightmare Boy,5,0.8363,Metadata
+367520,Hollow Knight,790360,WarriOrb,6,0.8321,Metadata
+367520,Hollow Knight,1286280,Pronty,7,0.818,Metadata
+367520,Hollow Knight,2199330,Aestik,8,0.8141,Metadata
+367520,Hollow Knight,1769100,Cosmic: A Journey Among Shadows,9,0.8105,Metadata
+367520,Hollow Knight,727510,Void Memory,10,0.7942,Metadata
+367520,Hollow Knight,2506740,Abyssal Descent,1,0.73435,Semantic
+367520,Hollow Knight,1262920,Horned Knight,2,0.729828,Semantic
+367520,Hollow Knight,2497840,Dungeon Watchers,3,0.728926,Semantic
+367520,Hollow Knight,401170,Birth of Shadows®,4,0.728861,Semantic
+367520,Hollow Knight,1873570,Everblade,5,0.72304,Semantic
+367520,Hollow Knight,732770,Knight Terrors,6,0.72036,Semantic
+367520,Hollow Knight,1634100,No More Rainbows,7,0.719264,Semantic
+367520,Hollow Knight,3008960,Dungeon Reborn,8,0.714212,Semantic
+367520,Hollow Knight,304050,Trove,9,0.712218,Semantic
+367520,Hollow Knight,1494260,Loot River,10,0.71221,Semantic
+739630,Phasmophobia,2115390,Project Unknown,1,0.820049,Graph
+739630,Phasmophobia,2506820,Demonsomnia,2,0.81005,Graph
+739630,Phasmophobia,1916310,Remnant Records,3,0.797879,Graph
+739630,Phasmophobia,1876030,Dark Past,4,0.751507,Graph
+739630,Phasmophobia,2251870,The Backrooms - Nightmare Dimension,5,0.740332,Graph
+739630,Phasmophobia,2201070,Phylakterion,6,0.736072,Graph
+739630,Phasmophobia,1985420,This is a Ghost,7,0.727837,Graph
+739630,Phasmophobia,3194340,We Are Alive,8,0.717315,Graph
+739630,Phasmophobia,2599370,DeathWatchers,9,0.716481,Graph
+739630,Phasmophobia,1929610,Demonologist,10,0.687828,Graph
+739630,Phasmophobia,2541890,Abnormality,1,0.0141161616161616,Hybrid
+739630,Phasmophobia,2201070,Phylakterion,2,0.0138329103846345,Hybrid
+739630,Phasmophobia,2115390,Project Unknown,3,0.0131147540983606,Hybrid
+739630,Phasmophobia,1929610,Demonologist,4,0.0130999066293183,Hybrid
+739630,Phasmophobia,2506820,Demonsomnia,5,0.0129032258064516,Hybrid
+739630,Phasmophobia,2764750,The Other Side,6,0.0128830468486686,Hybrid
+739630,Phasmophobia,3194340,We Are Alive,7,0.0126666882969403,Hybrid
+739630,Phasmophobia,1876030,Dark Past,8,0.0125992063492063,Hybrid
+739630,Phasmophobia,1502010,Friki,9,0.0122535277076908,Hybrid
+739630,Phasmophobia,1916310,Remnant Records,10,0.0122315592903828,Hybrid
+739630,Phasmophobia,2115390,Project Unknown,1,0.9256,Metadata
+739630,Phasmophobia,2506820,Demonsomnia,2,0.8983,Metadata
+739630,Phasmophobia,1876030,Dark Past,3,0.8913,Metadata
+739630,Phasmophobia,2599370,DeathWatchers,4,0.852,Metadata
+739630,Phasmophobia,3026770,Hunt Me,5,0.8418,Metadata
+739630,Phasmophobia,2541890,Abnormality,6,0.8326,Metadata
+739630,Phasmophobia,2306710,Enigma Manor,7,0.8216,Metadata
+739630,Phasmophobia,1916310,Remnant Records,8,0.808,Metadata
+739630,Phasmophobia,1911900,OverNight,9,0.7962,Metadata
+739630,Phasmophobia,2251870,The Backrooms - Nightmare Dimension,10,0.7914,Metadata
+739630,Phasmophobia,2619640,Evil Hunt - Evil never sleeps,1,0.811545,Semantic
+739630,Phasmophobia,2645490,Ghostbane,2,0.804601,Semantic
+739630,Phasmophobia,2201070,Phylakterion,3,0.79623,Semantic
+739630,Phasmophobia,2204850,Spooky Men,4,0.772427,Semantic
+739630,Phasmophobia,2638910,Phantom Patrol,5,0.77177,Semantic
+739630,Phasmophobia,1310510,Handy Harry's Haunted House Services,6,0.764729,Semantic
+739630,Phasmophobia,2962750,Ghostbane: Prologue,7,0.764675,Semantic
+739630,Phasmophobia,1929610,Demonologist,8,0.760172,Semantic
+739630,Phasmophobia,2764750,The Other Side,9,0.758042,Semantic
+739630,Phasmophobia,2400880,Haunted Investigation,10,0.754525,Semantic
+289070,Sid Meier’s Civilization® VI,1124300,HUMANKIND™,1,0.674123,Graph
+289070,Sid Meier’s Civilization® VI,65980,Sid Meier's Civilization®: Beyond Earth™,2,0.671251,Graph
+289070,Sid Meier’s Civilization® VI,791400,From Village to Empire,3,0.659365,Graph
+289070,Sid Meier’s Civilization® VI,597180,Old World,4,0.640117,Graph
+289070,Sid Meier’s Civilization® VI,50100,Sid Meier's Civilization® V,5,0.630583,Graph
+289070,Sid Meier’s Civilization® VI,1561960,Yield! Fall of Rome,6,0.624635,Graph
+289070,Sid Meier’s Civilization® VI,2001070,Heart of the Machine,7,0.602677,Graph
+289070,Sid Meier’s Civilization® VI,226840,Age of Wonders III,8,0.583504,Graph
+289070,Sid Meier’s Civilization® VI,392110,ENDLESS™ Space 2,9,0.579117,Graph
+289070,Sid Meier’s Civilization® VI,1768280,Ozymandias: Bronze Age Empire Sim,10,0.578433,Graph
+289070,Sid Meier’s Civilization® VI,50100,Sid Meier's Civilization® V,1,0.0147582982086406,Hybrid
+289070,Sid Meier’s Civilization® VI,1295660,Sid Meier's Civilization VII,2,0.0140212984741215,Hybrid
+289070,Sid Meier’s Civilization® VI,1124300,HUMANKIND™,3,0.0131147540983606,Hybrid
+289070,Sid Meier’s Civilization® VI,597180,Old World,4,0.0125992063492063,Hybrid
+289070,Sid Meier’s Civilization® VI,65980,Sid Meier's Civilization®: Beyond Earth™,5,0.0122487143525011,Hybrid
+289070,Sid Meier’s Civilization® VI,392110,ENDLESS™ Space 2,6,0.0122487143525011,Hybrid
+289070,Sid Meier’s Civilization® VI,791400,From Village to Empire,7,0.0122315592903828,Hybrid
+289070,Sid Meier’s Civilization® VI,226860,Galactic Civilizations III,8,0.0116583082374329,Hybrid
+289070,Sid Meier’s Civilization® VI,226840,Age of Wonders III,9,0.0115966386554621,Hybrid
+289070,Sid Meier’s Civilization® VI,1561960,Yield! Fall of Rome,10,0.0114660114660114,Hybrid
+289070,Sid Meier’s Civilization® VI,1124300,HUMANKIND™,1,0.8097,Metadata
+289070,Sid Meier’s Civilization® VI,392110,ENDLESS™ Space 2,2,0.7284,Metadata
+289070,Sid Meier’s Civilization® VI,597180,Old World,3,0.7282,Metadata
+289070,Sid Meier’s Civilization® VI,489630,"Warhammer 40,000: Gladius - Relics of War",4,0.6984,Metadata
+289070,Sid Meier’s Civilization® VI,1025440,Fantasy General II,5,0.6926,Metadata
+289070,Sid Meier’s Civilization® VI,214950,Total War: ROME II - Emperor Edition,6,0.6916,Metadata
+289070,Sid Meier’s Civilization® VI,1306770,Revival: Recolonization,7,0.6887,Metadata
+289070,Sid Meier’s Civilization® VI,791400,From Village to Empire,8,0.6811,Metadata
+289070,Sid Meier’s Civilization® VI,65980,Sid Meier's Civilization®: Beyond Earth™,9,0.6735,Metadata
+289070,Sid Meier’s Civilization® VI,226840,Age of Wonders III,10,0.6701,Metadata
+289070,Sid Meier’s Civilization® VI,1295660,Sid Meier's Civilization VII,1,0.684342,Semantic
+289070,Sid Meier’s Civilization® VI,1379370,4 Civilizations,2,0.638217,Semantic
+289070,Sid Meier’s Civilization® VI,2181940,CivIdle,3,0.622634,Semantic
+289070,Sid Meier’s Civilization® VI,50100,Sid Meier's Civilization® V,4,0.619103,Semantic
+289070,Sid Meier’s Civilization® VI,3354170,Supreme Power,5,0.608435,Semantic
+289070,Sid Meier’s Civilization® VI,3104240,Pyramid Clicker,6,0.603169,Semantic
+289070,Sid Meier’s Civilization® VI,228260,Fallen Enchantress: Legendary Heroes,7,0.600308,Semantic
+289070,Sid Meier’s Civilization® VI,1057740,World Of Conquerors,8,0.586539,Semantic
+289070,Sid Meier’s Civilization® VI,1180130,The Final Earth 2,9,0.584447,Semantic
+289070,Sid Meier’s Civilization® VI,517810,Caesar™ IV,10,0.582389,Semantic
+413150,Stardew Valley,2140600,Ninano: Dream Ranch,1,0.723817,Graph
+413150,Stardew Valley,1158160,Coral Island,2,0.706267,Graph
+413150,Stardew Valley,894940,Littlewood,3,0.683335,Graph
+413150,Stardew Valley,1045430,Circadian City,4,0.682661,Graph
+413150,Stardew Valley,2627600,Project Real,5,0.68227,Graph
+413150,Stardew Valley,2253770,Grow Your Pets,6,0.672725,Graph
+413150,Stardew Valley,1062520,Dinkum,7,0.658452,Graph
+413150,Stardew Valley,580200,Yonder: The Cloud Catcher Chronicles,8,0.647835,Graph
+413150,Stardew Valley,416000,Orange Season,9,0.645656,Graph
+413150,Stardew Valley,1465550,One Lonely Outpost,10,0.644722,Graph
+413150,Stardew Valley,1245560,Roots of Pacha,1,0.0141142567891586,Hybrid
+413150,Stardew Valley,1432860,Sun Haven,2,0.0137529137529137,Hybrid
+413150,Stardew Valley,2140600,Ninano: Dream Ranch,3,0.0130089899524061,Hybrid
+413150,Stardew Valley,894940,Littlewood,4,0.0123193556029376,Hybrid
+413150,Stardew Valley,1062520,Dinkum,5,0.0123193556029376,Hybrid
+413150,Stardew Valley,2627600,Project Real,6,0.0123076923076923,Hybrid
+413150,Stardew Valley,2142790,Fields of Mistria,7,0.0122884129109028,Hybrid
+413150,Stardew Valley,1158160,Coral Island,8,0.0122487143525011,Hybrid
+413150,Stardew Valley,1707850,Cheaphaven,9,0.012043219316896,Hybrid
+413150,Stardew Valley,1045430,Circadian City,10,0.0119642857142857,Hybrid
+413150,Stardew Valley,1245560,Roots of Pacha,1,0.7236,Metadata
+413150,Stardew Valley,2140600,Ninano: Dream Ranch,2,0.7165,Metadata
+413150,Stardew Valley,1062520,Dinkum,3,0.6992,Metadata
+413150,Stardew Valley,1465550,One Lonely Outpost,4,0.6966,Metadata
+413150,Stardew Valley,2627600,Project Real,5,0.6923,Metadata
+413150,Stardew Valley,1432860,Sun Haven,6,0.6885,Metadata
+413150,Stardew Valley,894940,Littlewood,7,0.6831,Metadata
+413150,Stardew Valley,405710,Staxel,8,0.6823,Metadata
+413150,Stardew Valley,1158160,Coral Island,9,0.6631,Metadata
+413150,Stardew Valley,1045430,Circadian City,10,0.6545,Metadata
+413150,Stardew Valley,433670,Professional Farmer 2017,1,0.761788,Semantic
+413150,Stardew Valley,1746930,SunnySide,2,0.757023,Semantic
+413150,Stardew Valley,444440,Scapeland,3,0.751767,Semantic
+413150,Stardew Valley,799240,My Free Farm 2,4,0.748854,Semantic
+413150,Stardew Valley,1329510,Big Farm Story,5,0.745108,Semantic
+413150,Stardew Valley,678900,Farmer's Dynasty,6,0.742472,Semantic
+413150,Stardew Valley,1049880,My Free Farm,7,0.737966,Semantic
+413150,Stardew Valley,3442040,Dream Life in the Country Side,8,0.737163,Semantic
+413150,Stardew Valley,2019380,Pocket Harvest,9,0.729028,Semantic
+413150,Stardew Valley,2195500,Green Valley,10,0.728993,Semantic
+292030,The Witcher 3: Wild Hunt,288470,Fable Anniversary,1,0.607911,Graph
+292030,The Witcher 3: Wild Hunt,208730,Game of Thrones,2,0.607221,Graph
+292030,The Witcher 3: Wild Hunt,973760,Thronebreaker: The Witcher Tales,3,0.599408,Graph
+292030,The Witcher 3: Wild Hunt,253980,Enclave,4,0.595044,Graph
+292030,The Witcher 3: Wild Hunt,39500,Gothic® 3,5,0.573831,Graph
+292030,The Witcher 3: Wild Hunt,204030,Fable - The Lost Chapters,6,0.573499,Graph
+292030,The Witcher 3: Wild Hunt,40300,Risen,7,0.571246,Graph
+292030,The Witcher 3: Wild Hunt,606880,GreedFall,8,0.563307,Graph
+292030,The Witcher 3: Wild Hunt,65540,Gothic 1,9,0.538602,Graph
+292030,The Witcher 3: Wild Hunt,1742690,Requiem,10,0.537444,Graph
+292030,The Witcher 3: Wild Hunt,973760,Thronebreaker: The Witcher Tales,1,0.0146278948737965,Hybrid
+292030,The Witcher 3: Wild Hunt,288470,Fable Anniversary,2,0.0129065833983866,Hybrid
+292030,The Witcher 3: Wild Hunt,208730,Game of Thrones,3,0.0126054590570719,Hybrid
+292030,The Witcher 3: Wild Hunt,40300,Risen,4,0.0125275263029116,Hybrid
+292030,The Witcher 3: Wild Hunt,606880,GreedFall,5,0.0123339658444022,Hybrid
+292030,The Witcher 3: Wild Hunt,253980,Enclave,6,0.0122201492537313,Hybrid
+292030,The Witcher 3: Wild Hunt,39500,Gothic® 3,7,0.0119509476031215,Hybrid
+292030,The Witcher 3: Wild Hunt,39690,ArcaniA,8,0.0118838028169014,Hybrid
+292030,The Witcher 3: Wild Hunt,204030,Fable - The Lost Chapters,9,0.0116944088775074,Hybrid
+292030,The Witcher 3: Wild Hunt,65540,Gothic 1,10,0.0113526570048309,Hybrid
+292030,The Witcher 3: Wild Hunt,40300,Risen,1,0.7893,Metadata
+292030,The Witcher 3: Wild Hunt,606880,GreedFall,2,0.7817,Metadata
+292030,The Witcher 3: Wild Hunt,288470,Fable Anniversary,3,0.7776,Metadata
+292030,The Witcher 3: Wild Hunt,39690,ArcaniA,4,0.7664,Metadata
+292030,The Witcher 3: Wild Hunt,208730,Game of Thrones,5,0.7554,Metadata
+292030,The Witcher 3: Wild Hunt,2457220,Avowed,6,0.7466,Metadata
+292030,The Witcher 3: Wild Hunt,253980,Enclave,7,0.7448,Metadata
+292030,The Witcher 3: Wild Hunt,249230,Risen 3 - Titan Lords,8,0.7442,Metadata
+292030,The Witcher 3: Wild Hunt,39500,Gothic® 3,9,0.7438,Metadata
+292030,The Witcher 3: Wild Hunt,40390,Risen 2: Dark Waters,10,0.7306,Metadata
+292030,The Witcher 3: Wild Hunt,973760,Thronebreaker: The Witcher Tales,1,0.81291,Semantic
+292030,The Witcher 3: Wild Hunt,303800,The Witcher Adventure Game,2,0.797689,Semantic
+292030,The Witcher 3: Wild Hunt,2473480,Tails of Iron 2: Whiskers of Winter,3,0.753528,Semantic
+292030,The Witcher 3: Wild Hunt,294370,Crowntakers,4,0.737978,Semantic
+292030,The Witcher 3: Wild Hunt,1280080,Faeland,5,0.730409,Semantic
+292030,The Witcher 3: Wild Hunt,362130,Ashes of Immortality,6,0.723988,Semantic
+292030,The Witcher 3: Wild Hunt,776600,Witch Sword,7,0.721794,Semantic
+292030,The Witcher 3: Wild Hunt,3156770,Witchfire,8,0.714417,Semantic
+292030,The Witcher 3: Wild Hunt,2198730,Adventure Awaits,9,0.712782,Semantic
+292030,The Witcher 3: Wild Hunt,1128960,最后的巫后：众王纷争的年代 Witch Queen,10,0.712734,Semantic
